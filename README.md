@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Guy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guylepage3&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/guylepage3/github-readme-stats)
+[![Guy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guylepage3&theme=graywhite&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/guylepage3/github-readme-stats)
 
 <!--
 **guylepage3/guylepage3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
