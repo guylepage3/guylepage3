@@ -57,10 +57,10 @@
 <div align="center"> 
   <picture>
     <a href="https://guylepage.com" target="_blank">
-      <source srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white" 
+      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white" 
         media="(prefers-color-scheme: dark)" 
       />
-      <source srcset="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white" 
+      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white" 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
       />
     </a>
@@ -88,5 +88,6 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
       />
     </a>
+    <img src="https://img.shields.io/badge/" />
   </picture>
 </div>
