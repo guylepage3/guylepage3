@@ -10,8 +10,8 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=for-the-badge&logoColor=white">
+      srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=for-the-badge&logoColor=white" height="18px">
+    <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=for-the-badge&logoColor=white" height="18px">
   </picture>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
