@@ -5,21 +5,21 @@
     <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=1f6feb&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff&card_width=290">
   </picture>
 </div>
-
+<br/>
 <div align="center" style="display: inline_block">
   <!-- <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=flat-square" height="22px">
-    <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=flat-square" height="22px">
+      srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=flat-square" height="18px">
+    <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=flat-square" height="18px">
   </picture> -->
   Languages & Tools — 
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/javascript/ffffff" width="22px">
-      <img src="https://ico.vercel.app/javascript/1f6feb" width="22px">
+        srcset="https://ico.vercel.app/javascript/ffffff" width="18px">
+      <img src="https://ico.vercel.app/javascript/1f6feb" width="18px">
     </picture>
   </a>
   &nbsp;
@@ -27,8 +27,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/typescript/ffffff" width="22px">
-      <img src="https://ico.vercel.app/typescript/1f6feb" width="22px">
+        srcset="https://ico.vercel.app/typescript/ffffff" width="18px">
+      <img src="https://ico.vercel.app/typescript/1f6feb" width="18px">
     </picture>
   </a>
   &nbsp;
@@ -36,8 +36,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/nextdotjs/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/nextdotjs/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/nextdotjs/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/nextdotjs/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -45,8 +45,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/react/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/react/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/react/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/react/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -54,8 +54,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/html5/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/html5/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/html5/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/html5/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -63,8 +63,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/cssmodules/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/cssmodules/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/cssmodules/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/cssmodules/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -72,8 +72,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/postcss/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/postcss/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/postcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/postcss/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -81,8 +81,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/autoprefixer/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/autoprefixer/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/autoprefixer/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/autoprefixer/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -90,8 +90,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/css3/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/css3/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/css3/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/css3/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -99,8 +99,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/tailwindcss/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/tailwindcss/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/tailwindcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/tailwindcss/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -108,8 +108,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/vercel/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/vercel/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/vercel/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/vercel/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -117,8 +117,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/pnpm/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/pnpm/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/pnpm/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/pnpm/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -126,8 +126,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/git/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/git/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/git/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/git/1f6feb"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -135,8 +135,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/stackshare/ffffff"  width="22px">
-      <img src="https://ico.vercel.app/stackshare/1f6feb"  width="22px">
+        srcset="https://ico.vercel.app/stackshare/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/stackshare/1f6feb"  width="18px">
     </picture>
   </a>
 </div>
