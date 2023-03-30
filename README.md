@@ -28,6 +28,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
   </a>
+  <a href="https://github.com/css-modules/css-modules" target="_blank">
+    <img align="center" alt="CSS Modules" src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white">
+  </a>
+  <a href="https://postcss.org/" target="_blank">
+    <img align="center" alt="PostCSS" src="https://img.shields.io/badge/PostCSS-000000?style=for-the-badge&logo=postcss&logoColor=white">
+  </a>
+  <a href="https://github.com/postcss/autoprefixer" target="_blank">
+    <img align="center" alt="Autoprefixer" src="https://img.shields.io/badge/Autoprefixer-000000?style=for-the-badge&logo=autoprefixer&logoColor=white">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
   </a>
@@ -36,6 +45,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a href="https://stackshare.io/guylepage33/guylepage-com" target="_blank">
+    <img align="center" alt="StackShare" src="https://img.shields.io/badge/StackShare-000000?style=for-the-badge&logo=stackshare&logoColor=white">
   </a>
 </div>
 <br/>
