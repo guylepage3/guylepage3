@@ -7,13 +7,13 @@
 </div>
 
 <div align="center" style="display: inline_block">
-  <picture>
+  <!-- <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=flat-square" height="22px">
     <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=flat-square" height="22px">
-  </picture>
-  &nbsp;
+  </picture> -->
+  Languages & Tools — 
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
       <source 
