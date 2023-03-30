@@ -6,14 +6,10 @@
   </picture>
 </div>
 <br/>
+  Languages & Tools
+<br/>
+<br/>
 <div align="left" style="display: inline_block">
-  <!-- <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=flat-square" height="18px">
-    <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=flat-square" height="18px">
-  </picture> -->
-  Languages & Tools<br/><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
       <source 
@@ -140,7 +136,10 @@
     </picture>
   </a>
 </div>
-Social<br/><br/>
+<br/>
+  Social
+<br/>
+<br/>
 <div align="left">
     <a href="https://guylepage.com" target="_blank">
       <picture>
