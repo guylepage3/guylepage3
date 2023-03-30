@@ -59,6 +59,15 @@
     </picture>
   </a>
   &nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/nodedotjs/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/nodedotjs/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <picture>
       <source 
@@ -149,7 +158,63 @@
     </picture>
   </a>
 </div>
-<br/>
+  <br/>
+<div align="center">
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/apple/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/apple/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/figma/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/figma/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/adobeindesign/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/adobeindesign/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/adobeillustrator/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/adobeillustrator/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/adobephotoshop/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/adobephotoshop/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/autodesk/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/autodesk/1f6feb"  width="20px">
+    </picture>
+  </a>
+</div>
+  <br/>
 <div align="center">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
@@ -159,7 +224,7 @@
       <img src="https://ico.vercel.app/twitter/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp; ¯ &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
     <picture>
       <source 
@@ -168,7 +233,16 @@
       <img src="https://ico.vercel.app/linkedin/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp; ¯ &nbsp;
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/bitcoin/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github/guylepage3" target="_blank">
     <picture>
       <source 
@@ -177,7 +251,7 @@
       <img src="https://ico.vercel.app/github/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp; ¯ &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
     <picture>
       <source 
