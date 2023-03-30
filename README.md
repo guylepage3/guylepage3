@@ -11,16 +11,16 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/000000?style=for-the-badge&logo=javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/1f6feb?style=for-the-badge&logo=javascript&logoColor=white">
+        srcset="https://ico.vercel.app/javascript/ffffff">
+      <img src="https://ico.vercel.app/javascript/1f6feb">
     </picture>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/TypeScript-1f6feb?style=for-the-badge&logo=typescript&logoColor=white">
+        srcset="https://ico.vercel.app/typescript/ffffff">
+      <img src="https://ico.vercel.app/typescript/1f6feb">
     </picture>
   </a>
   <a href="https://nextjs.org/" target="_blank">
