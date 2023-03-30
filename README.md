@@ -56,10 +56,8 @@
 <br/>
 <div align="center"> 
   <picture>
-    <a href="https://guylepage.com" target="_blank">
       <source media="(prefers-color-scheme: dark)" 
         srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
-      <img  src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
-    </a>
+      <img src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
   </picture>
 </div>
