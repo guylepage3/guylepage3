@@ -27,96 +27,96 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/nextdotjs/ffffff">
-      <img src="https://ico.vercel.app/nextdotjs/1f6feb">
+        srcset="https://ico.vercel.app/nextdotjs/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/nextdotjs/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://react.dev/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/react/ffffff">
-      <img src="https://ico.vercel.app/react/1f6feb">
+        srcset="https://ico.vercel.app/react/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/react/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/html5/ffffff">
-      <img src="https://ico.vercel.app/html5/1f6feb">
+        srcset="https://ico.vercel.app/html5/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/html5/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://github.com/css-modules/css-modules" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/cssmodules/ffffff">
-      <img src="https://ico.vercel.app/cssmodules/1f6feb">
+        srcset="https://ico.vercel.app/cssmodules/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/cssmodules/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://postcss.org/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/postcss/ffffff">
-      <img src="https://ico.vercel.app/postcss/1f6feb">
+        srcset="https://ico.vercel.app/postcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/postcss/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://github.com/postcss/autoprefixer" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/autoprefixer/ffffff">
-      <img src="https://ico.vercel.app/autoprefixer/1f6feb">
+        srcset="https://ico.vercel.app/autoprefixer/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/autoprefixer/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/css3/ffffff">
-      <img src="https://ico.vercel.app/css3/1f6feb">
+        srcset="https://ico.vercel.app/css3/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/css3/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/tailwindcss/ffffff">
-      <img src="https://ico.vercel.app/tailwindcss/1f6feb">
+        srcset="https://ico.vercel.app/tailwindcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/tailwindcss/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://vercel.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/vercel/ffffff">
-      <img src="https://ico.vercel.app/vercel/1f6feb">
+        srcset="https://ico.vercel.app/vercel/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/vercel/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://pnpm.io/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/pnpm/ffffff">
-      <img src="https://ico.vercel.app/pnpm/1f6feb">
+        srcset="https://ico.vercel.app/pnpm/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/pnpm/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/git/ffffff">
-      <img src="https://ico.vercel.app/git/1f6feb">
+        srcset="https://ico.vercel.app/git/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/git/1f6feb"  width="18px">
     </picture>
   </a>
   <a href="https://stackshare.io/guylepage33/guylepage-com" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/stackshare/ffffff">
-      <img src="https://ico.vercel.app/stackshare/1f6feb">
+        srcset="https://ico.vercel.app/stackshare/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/stackshare/1f6feb"  width="18px">
     </picture>
   </a>
 </div>
