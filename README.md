@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://github.com/guylepage3/github-readme-stats" target="_blank">
-    <img align="center" alt="React" src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff">
-  </a>
-</div>
-
-<!-- <div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff&card_width=290"
@@ -16,7 +10,7 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=guylepage3&show_icons=false" />
   </picture>
-</div> -->
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
@@ -61,16 +55,53 @@
 </div>
 <br/>
 <div align="center"> 
-  <a href="https://guylepage.com" target="_blank">
-    <img align="center" alt="Guy Lepage" src="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
-  </a>
-  <a href="https://twitter.com/guylepage3" target="_blank">
-    <img align="center" alt="Guy Lepage Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
-    <img align="center" alt="Guy Lepage LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
-    <img align="center" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logoColor=white">
-  </a>
+  <picture>
+    <a href="https://guylepage.com" target="_blank">
+      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white" 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      />
+    </a>
+    <a href="https://twitter.com/guylepage3" target="_blank">
+      <source align="center" alt="Guy Lepage Twitter" srcset="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source align="center" alt="Guy Lepage Twitter" srcset="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white" 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
+      <source align="center" alt="Guy Lepage LinkedIn" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source align="center" alt="Guy Lepage LinkedIn" srcset="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      />
+    </a>
+    <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
+      <source align="center" alt="Buy Me a Coffee" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logoColor=white" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source align="center" alt="Buy Me a Coffee" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f6feb?style=for-the-badge&logoColor=white"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+      />
+    </a>
+  </picture>
+</div>
+
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff&card_width=290"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=ffffff00&title_color=25292e&icon_color=25292e&text_color=25292e&hide_border=false&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=000000&card_width=290"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=guylepage3&show_icons=false" />
+  </picture>
 </div>
