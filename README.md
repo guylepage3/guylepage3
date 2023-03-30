@@ -1,4 +1,12 @@
-<div align="left">
+<br/>
+<p align="center">
+  <a href="https://guylepage.com">
+    <img src="https://user-images.githubusercontent.com/1711854/227265277-3e002be4-faef-4f63-8508-c4f67daccee4.png" width="150" alt="Guy Lepage Logo [guylepage-logo-rev-1024x1024]">
+  </a>
+  <br/>
+</p>
+<br/>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
@@ -9,7 +17,7 @@
   Languages & Tools
 <br/>
 <br/>
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
       <source 
@@ -137,7 +145,7 @@
   </a>
 </div>
 <br/>
-<div align="left">
+<div align="center">
     <a href="https://twitter.com/guylepage3" target="_blank">
       <picture>
         <source 
