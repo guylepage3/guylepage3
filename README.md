@@ -101,10 +101,6 @@
   </a>
 </div>
   <br/>
-<div align="center">
-  Design Tools & Languages
-</div>
-<br/>
 <div align="center" style="display: inline_block">
   <a href="#" target="_blank">
     <picture>
