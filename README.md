@@ -138,36 +138,28 @@
 </div>
 <br/>
 <div align="left">
-    <a href="https://guylepage.com" target="_blank">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
-      </picture>
-    </a>
     <a href="https://twitter.com/guylepage3" target="_blank">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white">
-        <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white">
+          srcset="https://ico.vercel.app/twitter/ffffff"  width="20px">
+        <img src="https://ico.vercel.app/twitter/1f6feb"  width="20px">
       </picture>
     </a>
     <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-        <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white">
+          srcset="https://ico.vercel.app/linkedin/ffffff"  width="20px">
+        <img src="https://ico.vercel.app/linkedin/1f6feb"  width="20px">
       </picture>
     </a>
     <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logoColor=white">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f6feb?style=for-the-badge&logoColor=white">
+          srcset="https://ico.vercel.app/buymeacoffee/ffffff"  width="20px">
+        <img src="https://ico.vercel.app/buymeacoffee/1f6feb"  width="20px">
       </picture>
     </a>
 </div>
