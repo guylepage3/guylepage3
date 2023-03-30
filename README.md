@@ -57,37 +57,9 @@
 <div align="center"> 
   <picture>
     <a href="https://guylepage.com" target="_blank">
-      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <source align="center" alt="Guy Lepage" srcset="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
+      <img  src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
     </a>
-    <a href="https://twitter.com/guylepage3" target="_blank">
-      <source align="center" alt="Guy Lepage Twitter" srcset="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <source align="center" alt="Guy Lepage Twitter" srcset="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
-      <source align="center" alt="Guy Lepage LinkedIn" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <source align="center" alt="Guy Lepage LinkedIn" srcset="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
-    </a>
-    <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
-      <source align="center" alt="Buy Me a Coffee" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logoColor=white" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <source align="center" alt="Buy Me a Coffee" srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f6feb?style=for-the-badge&logoColor=white"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
-    </a>
-    <img src="https://img.shields.io/badge/" />
   </picture>
 </div>
