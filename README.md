@@ -157,9 +157,7 @@
       <img src="https://ico.vercel.app/stackshare/1f6feb"  width="20px">
     </picture>
   </a>
-</div>
-  <br/>
-<div align="center">
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
@@ -168,7 +166,7 @@
       <img src="https://ico.vercel.app/apple/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
@@ -177,7 +175,7 @@
       <img src="https://ico.vercel.app/figma/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
@@ -186,7 +184,7 @@
       <img src="https://ico.vercel.app/adobeindesign/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
@@ -195,7 +193,7 @@
       <img src="https://ico.vercel.app/adobeillustrator/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
@@ -204,7 +202,7 @@
       <img src="https://ico.vercel.app/adobephotoshop/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
