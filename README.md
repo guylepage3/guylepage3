@@ -166,7 +166,7 @@
       <img src="https://ico.vercel.app/stackshare/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank">
     <picture>
       <source 
