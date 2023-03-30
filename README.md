@@ -11,8 +11,8 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge">
-      <img src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge">
+        srcset="https://img.shields.io/badge/000000?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/1f6feb?style=for-the-badge&logo=javascript&logoColor=white">
     </picture>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
