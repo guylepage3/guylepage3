@@ -56,13 +56,13 @@
 <br/>
 <div align="center"> 
   <a href="https://guylepage.com" target="_blank">
-    <img align="center" alt="Guy Lepage" src="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
+    <img align="center" alt="Guy Lepage" src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://twitter.com/guylepage3" target="_blank">
-    <img align="center" alt="Guy Lepage Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white">
+    <img align="center" alt="Guy Lepage Twitter" src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
-    <img align="center" alt="Guy Lepage LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="center" alt="Guy Lepage LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 <br/>
