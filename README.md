@@ -149,6 +149,15 @@
     </picture>
   </a>
   &nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/visualstudiocode/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/visualstudiocode/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://stackshare.io/guylepage33/guylepage-com" target="_blank">
     <picture>
       <source 
@@ -241,12 +250,39 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github/guylepage3" target="_blank">
+  <a href="https://github.com/guylepage3" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/github/ffffff"  width="20px">
       <img src="https://ico.vercel.app/github/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/behance/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/behance/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/dribbble/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/dribbble/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://goodreads.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/goodreads/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/goodreads/1f6feb"  width="20px">
     </picture>
   </a>
   &nbsp;&nbsp;
