@@ -42,6 +42,6 @@
 <div align="center">
     
   <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
-    <img align="center" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logoColor=black">
+    <img align="center" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f6feb?style=for-the-badge&logoColor=black">
   </a>
 </div>
