@@ -250,6 +250,15 @@
     </picture>
   </a>
   &nbsp;&nbsp;
+  <a href="https://medium.com/@guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/medium/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/medium/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
   <a href="#" target="_blank">
     <picture>
       <source 
