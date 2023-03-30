@@ -1,5 +1,5 @@
 <div align="center">
-  [![Guy's GitHub Stats](https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff)](https://github.com/guylepage3/github-readme-stats)
+  [![Guy Lepage's GitHub Stats](https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&=true&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=000000&card_width=300)](https://github.com/guylepage3/github-readme-stats)
 </div>
 
 <!-- <div align="center">
