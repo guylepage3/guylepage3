@@ -31,15 +31,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://vercel.com/" target="_blank">
+</div>
+<br/>
+<div align="center">
+    <a href="https://vercel.com/" target="_blank">
     <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </a>
-</div>
-<br/>
-<div align="center">
   <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
     <img align="center" alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logoColor=black">
   </a>
