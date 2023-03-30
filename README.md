@@ -137,9 +137,6 @@
   </a>
 </div>
 <br/>
-  Social
-<br/>
-<br/>
 <div align="left">
     <a href="https://guylepage.com" target="_blank">
       <picture>
