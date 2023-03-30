@@ -69,4 +69,18 @@
         <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white">
       </picture>
     </a>
+    <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" 
+          srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white">
+      </picture>
+    </a>
+    <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" 
+          srcset="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1f6feb?style=for-the-badge&logoColor=white">
+      </picture>
+    </a>
 </div>
