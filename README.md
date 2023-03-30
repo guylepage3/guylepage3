@@ -159,7 +159,7 @@
       <img src="https://ico.vercel.app/twitter/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;
+  &nbsp; / 
   <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
     <picture>
       <source 
@@ -168,7 +168,7 @@
       <img src="https://ico.vercel.app/linkedin/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;
+  &nbsp; / 
   <a href="https://github/guylepage3" target="_blank">
     <picture>
       <source 
@@ -177,7 +177,7 @@
       <img src="https://ico.vercel.app/github/1f6feb"  width="20px">
     </picture>
   </a>
-  &nbsp;
+  &nbsp; / 
   <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
     <picture>
       <source 
