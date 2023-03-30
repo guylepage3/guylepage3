@@ -17,7 +17,90 @@
     <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=1f6feb&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Statshide_title=true&ring_color=ffffff&card_width=290">
   </picture>
 </div>
-<br/>
+  <br/>
+<div align="center">
+  <a href="https://twitter.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/twitter/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/twitter/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/linkedin/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/linkedin/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/github/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/github/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/medium/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/medium/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/bitcoin/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/behance/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/behance/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/dribbble/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/dribbble/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://goodreads.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/goodreads/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/goodreads/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/buymeacoffee/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/buymeacoffee/1f6feb"  width="20px">
+    </picture>
+  </a>
+</div>
+  <br/>
 <div align="center">
   Languages & Tools
 </div>
@@ -218,89 +301,6 @@
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/stackshare/ffffff"  width="18px">
       <img src="https://ico.vercel.app/stackshare/1f6feb"  width="18px">
-    </picture>
-  </a>
-</div>
-  <br/>
-<div align="center">
-  <a href="https://twitter.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/twitter/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/twitter/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/linkedin/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/linkedin/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/github/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/github/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/medium/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/medium/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/bitcoin/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/behance/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/behance/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/dribbble/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/dribbble/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://goodreads.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/goodreads/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/goodreads/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/buymeacoffee/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/buymeacoffee/1f6feb"  width="20px">
     </picture>
   </a>
 </div>
