@@ -102,7 +102,7 @@
 </div>
   <br/>
 <div align="center">
-  Languages & Tools
+  Design Tools & Languages
 </div>
 <br/>
 <div align="center" style="display: inline_block">
