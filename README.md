@@ -1,8 +1,8 @@
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff&card_width=290">
-    <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=1f6feb&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&ring_color=ffffff&card_width=290">
+      srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=31363c&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
+    <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=1f6feb&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Statshide_title=true&ring_color=ffffff&card_width=290">
   </picture>
 </div>
 <br/>
@@ -13,7 +13,7 @@
       srcset="https://img.shields.io/badge/languages%20&%20tools:-000000?style=flat-square" height="18px">
     <img src="https://img.shields.io/badge/languages%20&%20tools:-1f6feb?style=flat-square" height="18px">
   </picture> -->
-  Languages & Tools<br/>
+  Languages & Tools<br/><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
     <picture>
       <source 
@@ -140,7 +140,7 @@
     </picture>
   </a>
 </div>
-<br/>
+Social<br/><br/>
 <div align="left">
     <a href="https://guylepage.com" target="_blank">
       <picture>
