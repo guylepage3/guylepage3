@@ -54,10 +54,19 @@
   </a>
 </div>
 <br/>
-<div align="center"> 
-  <picture>
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
-  </picture>
+<div align="center">
+    <a href="https://guylepage.com" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" 
+          srcset="https://img.shields.io/badge/guylepage.com-000000?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/guylepage.com-1f6feb?style=for-the-badge&logoColor=white">
+      </picture>
+    </a>
+    <a href="https://twitter.com/guylepage3" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" 
+          srcset="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white">
+      </picture>
+    </a>
 </div>
