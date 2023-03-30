@@ -11,16 +11,16 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/javascript/ffffff">
-      <img src="https://ico.vercel.app/javascript/1f6feb">
+        srcset="https://ico.vercel.app/javascript/ffffff" width="20px">
+      <img src="https://ico.vercel.app/javascript/1f6feb" width="20px">
     </picture>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/typescript/ffffff">
-      <img src="https://ico.vercel.app/typescript/1f6feb">
+        srcset="https://ico.vercel.app/typescript/ffffff" width="20px">
+      <img src="https://ico.vercel.app/typescript/1f6feb" width="20px">
     </picture>
   </a>
   <a href="https://nextjs.org/" target="_blank">
