@@ -149,7 +149,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -167,7 +167,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -176,7 +176,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -185,7 +185,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -194,7 +194,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -203,7 +203,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -212,7 +212,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -241,15 +241,6 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="20px">
-      <img src="https://ico.vercel.app/bitcoin/1f6feb"  width="20px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/guylepage3" target="_blank">
     <picture>
       <source 
@@ -259,7 +250,16 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="20px">
+      <img src="https://ico.vercel.app/bitcoin/1f6feb"  width="20px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -268,7 +268,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
