@@ -31,7 +31,7 @@ Night            141 commits    █░░░░░░░░░░░░░░░
 
 **Other information**
 
-```yaml
+```text
 name: Guy Leonard Lepage III
 location: Florida, Wyoming, Vermont + New York, British Columbia.
 originally_from: Vancouver (Canada)
@@ -345,4 +345,4 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
   </a>
 </div>
 <br/>
-<a href="https://guylepage.com" target="_blank">guylepage.com</a>
+<a href="https://guylepage.com" target="_blank"><strong>— guylepage.com</strong></a>
