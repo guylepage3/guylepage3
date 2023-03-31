@@ -36,8 +36,6 @@ Evening        1,698 commits    ███░░░░░░░░░░░░░
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
-**More about me**
-
 ```yaml
 name: Guy Lepage III
 location: You can find me in New York, Florida, Vermont, Wyoming
