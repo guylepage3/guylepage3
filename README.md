@@ -9,13 +9,6 @@
   </a>
 </div>
 <br/>
-<!-- <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=ffffff00&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&border_color=444c56&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
-    <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
-  </picture>
-</div> -->
 
 **GitHub developer statistics** — [Raw Stats Data](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank)
 
@@ -37,18 +30,18 @@ Night            141 commits    █░░░░░░░░░░░░░░░
 ```
 
 ```yaml
-name: Guy Lepage III
-location: You can find me in New York, Florida, Vermont, Wyoming
-from: Vancouver (Canada)
+name: Guy Leonard Lepage III
+location: Florida, Wyoming, Vermont + New York, British Columbia.
+originally_from: Vancouver (Canada)
 education: ["Self-taught Designer", "Self-taught Developer"]
-fields_of_interests: ["Decentralized Systems", "Web3", "Cryptography", 
-                      "Artificial Intelligence", "Machine Learning"]
-technical_background: ["Responsive Ratio Type Scaling", "Design Systems", 
+interests: ["Design", "Product Design", "Venture Capital", 
+            "Aleternative Asset Management", "Web3", "Artificial Intelligence", 
+            "Cryptography", "Marketing"]
+technical_background: ["Web3", "Responsive Ratio Type Scaling", "Design Systems", 
                        "Identity", "Web3 Systems"]
 currently_learning: ["GPT-4"]
-fun_facts: ["Former sponsored Ironman triathlete", 
-            "Owned a record label for 2yrs", 
-            "Played in a Punk Rock band from 21-23yrs of age"]
+fun_facts: ["Former sponsored Ironman triathlete", "Former Punk Rocker",
+            "Former record label owner (2yrs)"]
 hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling", 
           "Swimming", "Cycling"]
 ```
