@@ -44,6 +44,23 @@ Evening       1,698 commits    ███░░░░░░░░░░░░░�
 Night         141   commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
+```yaml
+name: Guy Lepage III
+location: You can find me in New York, Florida, Vermont, Wyoming
+from: Vancouver (Canada)
+education: ["Self-taught Designer", "Self-taught Developer"]
+fields_of_interests: ["Decentralized Systems", "Web3", "Cryptography", 
+                      "Artificial Intelligence", "Machine Learning"]
+technical_background: ["Responsive Ratio Type Scaling", "Design Systems", 
+                       "Identity", "Web3 Systems"]
+currently_learning: ["GPT-4"]
+fun_facts: ["Former sponsored Ironman triathlete", 
+            "Owned a record label for 2yrs", 
+            "Played in a Punk Rock band from 21-23yrs of age"]
+hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling", 
+          "Swimming", "Cycling"]
+```
+
 <p align="left">
   <strong>Tooling, languages, software, & methodologies</strong>
 </p>
@@ -340,20 +357,3 @@ Night         141   commits    █░░░░░░░░░░░░░░░�
     </picture>
   </a>
 </div>
-
-```yaml
-name: Guy Lepage III
-location: You can find me in New York, Florida, Vermont, Wyoming
-from: Vancouver (Canada)
-education: ["Self-taught Designer", "Self-taught Developer"]
-fields_of_interests: ["Decentralized Systems", "Web3", "Cryptography", 
-                      "Artificial Intelligence", "Machine Learning"]
-technical_background: ["Responsive Ratio Type Scaling", "Design Systems", 
-                       "Identity", "Web3 Systems"]
-currently_learning: ["GPT-4"]
-fun_facts: ["Former sponsored Ironman triathlete", 
-            "Owned a record label for 2yrs", 
-            "Played in a Punk Rock band from 21-23yrs of age"]
-hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling", 
-          "Swimming", "Cycling"]
-```
