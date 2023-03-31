@@ -278,7 +278,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/twitter/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
     <picture>
       <source 
@@ -287,7 +287,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/linkedin/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/guylepage3" target="_blank">
     <picture>
       <source 
@@ -296,7 +296,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/github/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://medium.com/@guylepage3" target="_blank">
     <picture>
       <source 
@@ -305,7 +305,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/medium/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
     <picture>
       <source 
@@ -314,7 +314,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/bitcoin/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="#" target="_blank">
     <picture>
       <source 
@@ -323,7 +323,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/behance/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="#" target="_blank">
     <picture>
       <source 
@@ -332,7 +332,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/dribbble/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://goodreads.com/guylepage3" target="_blank">
     <picture>
       <source 
@@ -341,7 +341,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/goodreads/000000"  width="18px">
     </picture>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
     <picture>
       <source 
@@ -351,3 +351,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
     </picture>
   </a>
 </div>
+
+[guylepage.com](https://guylepage.com)
+
+<br/>
