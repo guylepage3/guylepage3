@@ -17,7 +17,7 @@
   </picture>
 </div> -->
 
-**GitHub developer statistics** — [Click Here](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank) to view the stats data.
+**GitHub developer statistics** — [View the raw GitHub Stats data](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank)
 
 ```text
 Ranking                   S+    ███████████████████░░░░░░    75.88 %   (Developer ranking in the top 25%)
