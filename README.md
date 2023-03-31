@@ -254,9 +254,9 @@ Night            141   commits    █░░░░░░░░░░░░░░�
     </picture>
   </a>
 </div>
-
+<br/>
 **Social**
-
+<br/>
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
