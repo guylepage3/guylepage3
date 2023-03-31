@@ -17,13 +17,17 @@
   </picture>
 </div>
 <br/>
+
 **I'm a morning person ☀️** 
 ```text
+
 Morning    █████████████░░░░░░░░░░░░   51.55 % 
 Daytime    ████████░░░░░░░░░░░░░░░░░   33.28 % 
 Evening    ███░░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 Night      █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
+
 ```
+
 <br/>
 <div align="center">
   <a href="https://twitter.com/guylepage3" target="_blank">
