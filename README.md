@@ -351,6 +351,5 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
     </picture>
   </a>
 </div>
-
 <br/>
-[guylepage.com](https://guylepage.com)
+<a href="https://guylepage.com" target="_blank">guylepage.com</a>
