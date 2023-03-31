@@ -22,9 +22,12 @@
 Morning    6,246 commits    █████████████░░░░░░░░░░░░   51.55 % 
 Daytime    4,033 commits    ████████░░░░░░░░░░░░░░░░░   33.28 % 
 Evening    1,698 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Night      141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
+Night      141 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
+```
 
-All-time Commits    12118 commits     █████████████████████████
+**Other stats** 
+```text
+All-time Commits    12,118 commits     █████████████████████████
 ```
 
 <div align="center">
