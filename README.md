@@ -9,13 +9,23 @@
   </a>
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=ffffff00&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&border_color=444c56&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
     <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
   </picture>
-</div>
+</div> -->
+
+**Coding & GitHub statistics** 
+```text
+All-time indirect stars    613,501    █████████████████████████   100.00 %
+All-time commits            12,118    █████████████████████████   100.00 %
+All-time PR's                  374    █████████████████████████   100.00 %
+All-time issues              1,568    █████████████████████████   100.00 %
+Contributed to                  76    █████████████████████████   100.00 %
+GitHub followers               144    █████████████████████████   100.00 %
+```
 
 **I'm a morning person ☀️** 
 ```text
@@ -23,11 +33,6 @@ Morning    6,246 commits    █████████████░░░░�
 Daytime    4,033 commits    ████████░░░░░░░░░░░░░░░░░   33.28 % 
 Evening    1,698 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 Night      141 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
-```
-
-**Other stats** 
-```text
-All-time Commits    12,118 commits     █████████████████████████
 ```
 
 <div align="center">
