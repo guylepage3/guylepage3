@@ -29,6 +29,8 @@ Evening        1,698 commits    ███░░░░░░░░░░░░░
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
+**Other information**
+
 ```yaml
 name: Guy Leonard Lepage III
 location: Florida, Wyoming, Vermont + New York, British Columbia.
