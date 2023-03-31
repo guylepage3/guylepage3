@@ -245,21 +245,21 @@
     </picture>
   </a>
   &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/tailwindcss/444c56"  width="16px">
+      <img src="https://ico.vercel.app/tailwindcss/000000"  width="16px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://www.twilio.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/twilio/444c56"  width="16px">
       <img src="https://ico.vercel.app/twilio/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://vercel.com/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/vercel/444c56"  width="16px">
-      <img src="https://ico.vercel.app/vercel/000000"  width="16px">
     </picture>
   </a>
   &nbsp;
