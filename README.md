@@ -17,14 +17,20 @@
   </picture>
 </div> -->
 
+**GitHub developer ranking** 
+```text
+Rank level            S+ (Top 25%)    ███████████████████░░░░░░   75.88 %
+Score            227,656 / 300,000    ███████████████████░░░░░░   75.88 %
+```
+
 **Coding & GitHub statistics** 
 ```text
-All-time indirect stars    613,501    █████████████████████████   100.00 %
-All-time commits            12,118    █████████████████████████   100.00 %
-All-time PR's                  374    █████████████████████████   100.00 %
-All-time issues              1,568    █████████████████████████   100.00 %
-Contributed to                  76    █████████████████████████   100.00 %
-GitHub followers               144    █████████████████████████   100.00 %
+All-time indirect stars    613,501    █████████████████████████  100.00 %
+All-time commits            12,118    █████████████████████████  100.00 %
+All-time PR's                  374    █████████████████████████  100.00 %
+All-time issues              1,568    █████████████████████████  100.00 %
+Contributed to                  76    █████████████████████████  100.00 %
+GitHub followers               144    █████████████████████████  100.00 %
 ```
 
 **I'm a morning person ☀️** 
