@@ -16,7 +16,15 @@
     <img src="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&border_color=d1d7dd&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
   </picture>
 </div>
-  <br/>
+<br/>
+**I'm a morning person ☀️** 
+```text
+Morning    █████████████░░░░░░░░░░░░   51.55 % 
+Daytime    ████████░░░░░░░░░░░░░░░░░   33.28 % 
+Evening    ███░░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Night      █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
+```
+<br/>
 <div align="center">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
