@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://guylepage.com">
     <picture>
       <source 
@@ -9,7 +9,7 @@
   </a>
 </div>
 <br/>
-<!-- <div align="center">
+<!-- <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-guylepage3.vercel.app/api?username=guylepage3&show_icons=false&bg_color=ffffff00&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&border_color=444c56&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&hide_title=true&ring_color=ffffff&card_width=290">
@@ -17,20 +17,20 @@
   </picture>
 </div> -->
 
-**GitHub developer ranking** 
+**GitHub developer ranking ([guylepage3](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank))** 
 ```text
-Rank level            S+ (Top 25%)    ███████████████████░░░░░░   75.88 %
-Score            227,656 / 300,000    ███████████████████░░░░░░   75.88 %
+Rank level           S+ (Top 25%)    ███████████████████░░░░░░   75.88 %
+Score           227,656 / 300,000    ███████████████████░░░░░░   75.88 %
 ```
 
 **Coding & GitHub statistics** 
 ```text
-All-time indirect stars    613,501    █████████████████████████  100.00 %
-All-time commits            12,118    █████████████████████████  100.00 %
-All-time PR's                  374    █████████████████████████  100.00 %
-All-time issues              1,568    █████████████████████████  100.00 %
-Contributed to                  76    █████████████████████████  100.00 %
-GitHub followers               144    █████████████████████████  100.00 %
+All-time indirect stars   613,501    █████████████████████████  100.00 %
+All-time commits           12,118    █████████████████████████  100.00 %
+All-time PR's                 374    █████████████████████████  100.00 %
+All-time issues             1,568    █████████████████████████  100.00 %
+Contributed to                 76    █████████████████████████  100.00 %
+GitHub followers              144    █████████████████████████  100.00 %
 ```
 
 **I'm a morning person ☀️** 
@@ -38,99 +38,16 @@ GitHub followers               144    ██████████████
 Morning    6,246 commits    █████████████░░░░░░░░░░░░   51.55 % 
 Daytime    4,033 commits    ████████░░░░░░░░░░░░░░░░░   33.28 % 
 Evening    1,698 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Night      141 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
+Night      141   commits    █░░░░░░░░░░░░░░░░░░░░░░░░   1.16  %
 ```
-
-<div align="center">
-  <a href="https://twitter.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/twitter/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/twitter/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/linkedin/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/linkedin/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/github/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/github/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/medium/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/medium/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/bitcoin/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/behance/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/behance/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/dribbble/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/dribbble/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://goodreads.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/goodreads/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/goodreads/000000"  width="16px">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/buymeacoffee/ffffff"  width="16px">
-      <img src="https://ico.vercel.app/buymeacoffee/000000"  width="16px">
-    </picture>
-  </a>
-</div>
-  <br/>
-<div align="center" style="display: inline_block">
+**Tools, languages, software, & methodologies** 
+<div align="left" style="display: inline_block">
   <a href="https://www.figma.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/figma/444c56"  width="16px">
-      <img src="https://ico.vercel.app/figma/000000"  width="16px">
+        srcset="https://ico.vercel.app/figma/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/figma/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -138,8 +55,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/adobeindesign/444c56"  width="16px">
-      <img src="https://ico.vercel.app/adobeindesign/000000"  width="16px">
+        srcset="https://ico.vercel.app/adobeindesign/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/adobeindesign/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -147,8 +64,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/adobeillustrator/444c56"  width="16px">
-      <img src="https://ico.vercel.app/adobeillustrator/000000"  width="16px">
+        srcset="https://ico.vercel.app/adobeillustrator/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/adobeillustrator/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -156,8 +73,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/adobephotoshop/444c56"  width="16px">
-      <img src="https://ico.vercel.app/adobephotoshop/000000"  width="16px">
+        srcset="https://ico.vercel.app/adobephotoshop/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/adobephotoshop/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -165,8 +82,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/autodesk/444c56"  width="16px">
-      <img src="https://ico.vercel.app/autodesk/000000"  width="16px">
+        srcset="https://ico.vercel.app/autodesk/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/autodesk/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -174,8 +91,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/apple/444c56"  width="16px">
-      <img src="https://ico.vercel.app/apple/000000"  width="16px">
+        srcset="https://ico.vercel.app/apple/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/apple/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -183,8 +100,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/javascript/444c56" width="16px">
-      <img src="https://ico.vercel.app/javascript/000000" width="16px">
+        srcset="https://ico.vercel.app/javascript/ffffff" width="18px">
+      <img src="https://ico.vercel.app/javascript/000000" width="18px">
     </picture>
   </a>
   &nbsp;
@@ -192,8 +109,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/typescript/444c56" width="16px">
-      <img src="https://ico.vercel.app/typescript/000000" width="16px">
+        srcset="https://ico.vercel.app/typescript/ffffff" width="18px">
+      <img src="https://ico.vercel.app/typescript/000000" width="18px">
     </picture>
   </a>
   &nbsp;
@@ -201,8 +118,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/nextdotjs/444c56"  width="16px">
-      <img src="https://ico.vercel.app/nextdotjs/000000"  width="16px">
+        srcset="https://ico.vercel.app/nextdotjs/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/nextdotjs/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -210,8 +127,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/react/444c56"  width="16px">
-      <img src="https://ico.vercel.app/react/000000"  width="16px">
+        srcset="https://ico.vercel.app/react/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/react/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -219,8 +136,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/nodedotjs/444c56"  width="16px">
-      <img src="https://ico.vercel.app/nodedotjs/000000"  width="16px">
+        srcset="https://ico.vercel.app/nodedotjs/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/nodedotjs/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -228,8 +145,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/html5/444c56"  width="16px">
-      <img src="https://ico.vercel.app/html5/000000"  width="16px">
+        srcset="https://ico.vercel.app/html5/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/html5/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -237,8 +154,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/cssmodules/444c56"  width="16px">
-      <img src="https://ico.vercel.app/cssmodules/000000"  width="16px">
+        srcset="https://ico.vercel.app/cssmodules/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/cssmodules/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -246,8 +163,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/postcss/444c56"  width="16px">
-      <img src="https://ico.vercel.app/postcss/000000"  width="16px">
+        srcset="https://ico.vercel.app/postcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/postcss/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -255,8 +172,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/autoprefixer/444c56"  width="16px">
-      <img src="https://ico.vercel.app/autoprefixer/000000"  width="16px">
+        srcset="https://ico.vercel.app/autoprefixer/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/autoprefixer/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -264,8 +181,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/css3/444c56"  width="16px">
-      <img src="https://ico.vercel.app/css3/000000"  width="16px">
+        srcset="https://ico.vercel.app/css3/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/css3/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -273,8 +190,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/tailwindcss/444c56"  width="16px">
-      <img src="https://ico.vercel.app/tailwindcss/000000"  width="16px">
+        srcset="https://ico.vercel.app/tailwindcss/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/tailwindcss/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -282,8 +199,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/twilio/444c56"  width="16px">
-      <img src="https://ico.vercel.app/twilio/000000"  width="16px">
+        srcset="https://ico.vercel.app/twilio/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/twilio/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -291,8 +208,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/vercel/444c56"  width="16px">
-      <img src="https://ico.vercel.app/vercel/000000"  width="16px">
+        srcset="https://ico.vercel.app/vercel/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/vercel/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -300,8 +217,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/pnpm/444c56"  width="16px">
-      <img src="https://ico.vercel.app/pnpm/000000"  width="16px">
+        srcset="https://ico.vercel.app/pnpm/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/pnpm/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -309,8 +226,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/git/444c56"  width="16px">
-      <img src="https://ico.vercel.app/git/000000"  width="16px">
+        srcset="https://ico.vercel.app/git/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/git/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -318,8 +235,8 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/visualstudiocode/444c56"  width="16px">
-      <img src="https://ico.vercel.app/visualstudiocode/000000"  width="16px">
+        srcset="https://ico.vercel.app/visualstudiocode/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/visualstudiocode/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
@@ -327,8 +244,92 @@ Night      141 commits      █░░░░░░░░░░░░░░░░�
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/stackshare/444c56"  width="16px">
-      <img src="https://ico.vercel.app/stackshare/000000"  width="16px">
+        srcset="https://ico.vercel.app/stackshare/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/stackshare/000000"  width="18px">
+    </picture>
+  </a>
+</div>
+
+**Social**
+<div align="left">
+  <a href="https://twitter.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/twitter/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/twitter/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guylepage/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/linkedin/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/linkedin/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/github/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/github/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/medium/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/medium/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/bitcoin/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/behance/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/behance/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/dribbble/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/dribbble/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://goodreads.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/goodreads/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/goodreads/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/buymeacoffee/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/buymeacoffee/000000"  width="18px">
     </picture>
   </a>
 </div>
