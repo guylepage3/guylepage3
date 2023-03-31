@@ -18,12 +18,14 @@
 </div> -->
 
 **GitHub developer ranking ([GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank))** 
+
 ```text
 Rank level        S+ (Top 25%)    ███████████████████░░░░░░    75.88 %
 Score        227,656 / 300,000    ███████████████████░░░░░░    75.88 %
 ```
 
 **Coding & GitHub statistics** 
+
 ```text
 All-time stars         613,501    █████████████████████████   100.00 %  (Indirect & direct stars)
 All-time commits        12,118    █████████████████████████   100.00 %
@@ -34,6 +36,7 @@ GitHub followers           144    ███████████████�
 ```
 
 **I'm a morning person ☀️** 
+
 ```text
 Morning          6,246 commits    █████████████░░░░░░░░░░░░    51.55 % 
 Daytime          4,033 commits    ████████░░░░░░░░░░░░░░░░░    33.28 % 
@@ -42,6 +45,7 @@ Night            141   commits    █░░░░░░░░░░░░░░�
 ```
 
 **Tooling, languages, software, & methodologies** 
+
 <div align="left" style="display: inline_block">
   <a href="https://www.figma.com/" target="_blank">
     <picture>
@@ -252,6 +256,7 @@ Night            141   commits    █░░░░░░░░░░░░░░�
 </div>
 
 **Social**
+
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
