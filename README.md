@@ -54,7 +54,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -101,7 +101,7 @@
 </div>
   <br/>
 <div align="center" style="display: inline_block">
-  <a href="#" target="_blank">
+  <a href="https://www.figma.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -110,7 +110,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.adobe.com/products/indesign.html" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -119,7 +119,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -128,7 +128,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -137,7 +137,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.autodesk.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -146,7 +146,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://apple.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
