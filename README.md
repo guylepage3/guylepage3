@@ -29,9 +29,9 @@ Evening        1,698 commits    ███░░░░░░░░░░░░░
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
-**Other information**
+**Information**
 
-```text
+```yaml
 name: Guy Leonard Lepage III
 location: Florida, Wyoming, Vermont + New York, British Columbia.
 originally_from: Vancouver (Canada)
@@ -345,4 +345,4 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
   </a>
 </div>
 <br/>
-<a href="https://guylepage.com" target="_blank"><strong>— guylepage.com</strong></a>
+— <a href="https://guylepage.com" target="_blank"><strong>guylepage.com</strong></a>
