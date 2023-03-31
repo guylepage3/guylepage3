@@ -44,9 +44,10 @@ Evening          1,698 commits    ███░░░░░░░░░░░░�
 Night            141   commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
-**Tooling, languages, software, & methodologies** 
-
-<div align="left" style="display: inline_block">
+<p align="left">
+  <strong>Tooling, languages, software, & methodologies</strong>
+</p>
+<div align="left">
   <a href="https://www.figma.com/" target="_blank">
     <picture>
       <source 
@@ -254,9 +255,9 @@ Night            141   commits    █░░░░░░░░░░░░░░�
     </picture>
   </a>
 </div>
-<br/>
-**Social**
-<br/>
+<p align="left">
+  <strong>Social</strong>
+</p>
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
