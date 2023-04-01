@@ -258,6 +258,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
     </picture>
   </a>
 </div>
+<br/>
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
