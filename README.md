@@ -345,4 +345,4 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
   </a>
 </div>
 <br/>
-— <a href="https://guylepage.com" target="_blank"><strong>guylepage.com</strong></a>
+<a href="https://guylepage.com" target="_blank"><strong>guylepage.com</strong></a>
