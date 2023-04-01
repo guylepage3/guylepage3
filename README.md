@@ -280,15 +280,6 @@ Night            141 commits    █░░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/bitcoin/000000"  width="18px">
-    </picture>
-  </a>
-  &nbsp;
   <a href="https://www.behance.net/guylepage3" target="_blank">
     <picture>
       <source 
@@ -307,12 +298,12 @@ Night            141 commits    █░░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="https://goodreads.com/guylepage3" target="_blank">
+  <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/goodreads/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/goodreads/000000"  width="18px">
+        srcset="https://ico.vercel.app/bitcoin/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/bitcoin/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
