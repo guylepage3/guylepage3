@@ -1,10 +1,11 @@
 {
   "name": "Guy Leonard Lepage III",
-  "location": "Wyoming",
+  "currentLocation": "Wyoming",
   "secondaryLocations": [
     "Florida",
     "Vermont",
     "New York",
+    "California",
     "British Columbia"
   ],
   "originallyFrom": "Vancouver, Canada",
