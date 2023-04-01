@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-**GitHub developer ranking & statistics**
+**GitHub developer ranking & statistics**<br/>
 [Awesome GitHub Stats data](https://github.com/guylepage3/guylepage3/blob/main/devRanking.json)
 
 ```text
