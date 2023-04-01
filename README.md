@@ -14,7 +14,7 @@
 [Awesome GitHub Stats data](https://github.com/guylepage3/guylepage3/blob/main/devRanking.json)
 
 ```text
-Ranking                   S+    ███████████████████░░░░░░    75.94 %   (Ranked in the top 24.06% of developers)
+Ranking                   S+    ███████████████████░░░░░░    75.94 %   (Ranked top 24.06 % of developers)
 Score                227,805    ███████████████████░░░░░░    75.94 %   (227,805 / 300,000)
 
 All-time stars       613,705    █████████████████████████   100.00 %   (Indirect & direct stars)
