@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-**GitHub developer statistics** — [Raw Stats Data](https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank)
+**GitHub developer ranking & statistics** — [Awesome GitHub Stats data](https://github.com/guylepage3/guylepage3/blob/main/devRanking.json)
 
 ```text
 Ranking                   S+    ███████████████████░░░░░░    75.88 %   (Developer ranking in the top 25%)
