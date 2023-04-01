@@ -29,7 +29,8 @@ Evening        1,698 commits    ███░░░░░░░░░░░░░
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
-**Information**
+<details>
+<summary><strong>Information</strong></summary>
 
 ```yaml
 name: Guy Leonard Lepage III
@@ -47,6 +48,7 @@ fun_facts: ["Former sponsored Ironman triathlete", "Former Punk Rocker",
 hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling", 
           "Swimming", "Cycling"]
 ```
+</details>
 
 <p align="left">
   <strong>Tooling, languages, software, & methodologies</strong>
