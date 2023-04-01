@@ -51,23 +51,23 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
 </details>
 
 <div align="left">
-  `<a href="https://www.figma.com/" target="_blank">
+  <a href="https://www.figma.com/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/figma/ffffff"  width="18px">
       <img src="https://ico.vercel.app/figma/000000"  width="18px">
     </picture>
-  </a>`
+  </a>
   &nbsp;
-  `<a href="https://www.adobe.com/products/indesign.html" target="_blank">
+  <a href="https://www.adobe.com/products/indesign.html" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/adobeindesign/ffffff"  width="18px">
       <img src="https://ico.vercel.app/adobeindesign/000000"  width="18px">
     </picture>
-  </a>`
+  </a>
   &nbsp;
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <picture>
