@@ -50,9 +50,6 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
 ```
 </details>
 
-<p align="left">
-  <strong>Tooling, languages, software, & methodologies</strong>
-</p>
 <div align="left">
   <a href="https://www.figma.com/" target="_blank">
     <picture>
@@ -260,10 +257,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
       <img src="https://ico.vercel.app/stackshare/000000"  width="18px">
     </picture>
   </a>
-</div><br/>
-<p align="left">
-  <strong>Social</strong> — <a href="https://guylepage.com" target="_blank">guylepage.com</a>
-</p>
+</div>
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
     <picture>
