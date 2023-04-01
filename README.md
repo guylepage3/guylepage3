@@ -30,7 +30,7 @@ Night            141 commits    █░░░░░░░░░░░░░░░
 ```
 
 <div align="left">
-  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank"><strong>› Additional information</strong></a>
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">Additional information</a>
 </div>
 <br/>
 <div align="left">
@@ -288,7 +288,7 @@ Night            141 commits    █░░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.behance.net/guylepage3" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -297,7 +297,7 @@ Night            141 commits    █░░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://dribbble.com/guylepage3" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
