@@ -262,7 +262,7 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
   </a>
 </div><br/>
 <p align="left">
-  <strong>Social</strong>
+  <strong>Social</strong> — <a href="https://guylepage.com" target="_blank">guylepage.com</a>
 </p>
 <div align="left">
   <a href="https://twitter.com/guylepage3" target="_blank">
@@ -346,5 +346,3 @@ hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling",
     </picture>
   </a>
 </div>
-<br/>
-<a href="https://guylepage.com" target="_blank"><strong>guylepage.com</strong></a>
