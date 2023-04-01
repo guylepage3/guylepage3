@@ -29,26 +29,9 @@ Evening        1,698 commits    ███░░░░░░░░░░░░░
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
 
-<details>
-<summary><strong>Information</strong></summary>
-
-```yaml
-name: Guy Leonard Lepage III
-location: Florida, Wyoming, Vermont + New York, British Columbia.
-originally_from: Vancouver (Canada)
-education: ["Self-taught Designer", "Self-taught Developer"]
-interests: ["Design", "Product Design", "Venture Capital", 
-            "Aleternative Asset Management", "Web3", "Artificial Intelligence", 
-            "Cryptography", "Marketing"]
-technical_background: ["Web3", "Responsive Ratio Type Scaling", "Design Systems", 
-                       "Identity", "Web3 Systems"]
-currently_learning: ["GPT-4"]
-fun_facts: ["Former sponsored Ironman triathlete", "Former Punk Rocker",
-            "Former record label owner (2yrs)"]
-hobbies: ["Skiing", "Architecture", "Drafting", "Running", "Traveling", 
-          "Swimming", "Cycling"]
-```
-</details>
+<div align="left">
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">Additional information</a>
+</div>
 
 <div align="left">
   <a href="https://www.figma.com/" target="_blank">

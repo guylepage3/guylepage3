@@ -1,0 +1,47 @@
+{
+  "name": "Guy Leonard Lepage III",
+  "location": "Wyoming",
+  "secondaryLocations": [
+    "Florida",
+    "Vermont",
+    "New York",
+    "British Columbia"
+  ],
+  "originallyFrom": "Vancouver, Canada",
+  "education": [
+    "Self-taught Designer",
+    "Self-taught Developer"
+  ],
+  "interests": [
+    "Design",
+    "Product Design",
+    "Venture Capital",
+    "Aleternative Asset Management",
+    "Web3",
+    "Artificial Intelligence",
+    "Cryptography",
+    "Marketing"
+  ],
+  "technicalBackground": [
+    "Web3",
+    "Responsive Ratio Type Scaling",
+    "Design Systems",
+    "Identity",
+    "Web3 Systems"
+  ],
+  "currentlyLearning": "GPT-4",
+  "funFacts": [
+    "Former sponsored Ironman triathlete",
+    "Former Punk Rocker",
+    "Former record label owner (2yrs)"
+  ],
+  "hobbies": [
+    "Skiing",
+    "Architecture",
+    "Drafting",
+    "Running",
+    "Traveling",
+    "Swimming",
+    "Cycling"
+  ]
+}
