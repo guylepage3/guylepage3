@@ -28,11 +28,11 @@ Daytime        4,033 commits    ████████░░░░░░░░
 Evening        1,698 commits    ███░░░░░░░░░░░░░░░░░░░░░░    14.01 % 
 Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
 ```
-
+<br/>
 <div align="left">
-  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">Additional information</a>
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank"><strong>› Additional information</strong></a>
 </div>
-
+<br/>
 <div align="left">
   <a href="https://www.figma.com/" target="_blank">
     <picture>
