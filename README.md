@@ -14,20 +14,20 @@
 [Awesome GitHub Stats data](https://github.com/guylepage3/guylepage3/blob/main/devRanking.json)
 
 ```text
-Ranking                   S+    ███████████████████░░░░░░    75.94 %   (Ranked top 24.06 % of developers)
-Score                227,805    ███████████████████░░░░░░    75.94 %   (227,805 / 300,000)
+Developer ranking            S+    ███████████████████░░░░░░    75.94 %   (Ranked top 24.06 %)
+Score                   227,805    ███████████████████░░░░░░    75.94 %   (227,805 / 300,000)
 
-All-time stars       613,705    █████████████████████████   100.00 %   (Indirect & direct stars)
-All-time commits      12,166    █████████████████████████   100.00 %
-All-time PR's            374    █████████████████████████   100.00 %
-All-time issues        1,568    █████████████████████████   100.00 %
-Contributed to            76    █████████████████████████   100.00 %
-GitHub followers         144    █████████████████████████   100.00 %
+All-time stars          613,705    █████████████████████████   100.00 %   (Indirect & direct stars)
+All-time commits         12,166    █████████████████████████   100.00 %
+All-time PR's               374    █████████████████████████   100.00 %
+All-time issues           1,568    █████████████████████████   100.00 %
+Contributed to               76    █████████████████████████   100.00 %
+GitHub followers            144    █████████████████████████   100.00 %
 
-Morning        6,270 commits    █████████████░░░░░░░░░░░░    51.54 % 
-Daytime        4,057 commits    ████████░░░░░░░░░░░░░░░░░    33.34 % 
-Evening        1,698 commits    ███░░░░░░░░░░░░░░░░░░░░░░    13.96 % 
-Night            141 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     1.16 %
+Morning           3,745 commits    ████████░░░░░░░░░░░░░░░░░    30.78 %   (4am – 9am)
+Late morning      5,507 commits    ███████████░░░░░░░░░░░░░░    45.28 %   (9am – 2pm)
+Afternoon         2,613 commits    █████░░░░░░░░░░░░░░░░░░░░    21.48 %   (2pm – 7pm)
+Evening             301 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     2.47 %   (7pm – 4am)
 ```
 
 <div align="left">
