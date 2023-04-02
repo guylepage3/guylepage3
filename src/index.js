@@ -34,14 +34,14 @@ async function loadCommits() {
   obj.score_percent = dataScoreRank + " %";
   obj.stars = starTotal.toLocaleString();
   obj.commits = data.userStats.commits.toLocaleString();
-  obj.prs = data.userStats.pullRequests.toLocaleString();
+  obj.pull_requests = data.userStats.pullRequests.toLocaleString();
   obj.issues = data.userStats.issues.toLocaleString();
   obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
-  obj.morning = morningCommits.toLocaleString();
-  obj.late_morning = lateMorningCommits.toLocaleString();
-  obj.afternoon = afternoonCommits.toLocaleString();
-  obj.evening = eveningCommits.toLocaleString();
+  obj.morning = parseInt(morningCommits, 10).toLocaleString();
+  obj.late_morning = parseInt(lateMorningCommits, 10).toLocaleString();
+  obj.afternoon = parseInt(afternoonCommits, 10).toLocaleString();
+  obj.evening = parseInt(eveningCommits, 10).toLocaleString();
 
   document.getElementById("json").innerHTML = JSON.stringify(obj, undefined, 2);
 }
