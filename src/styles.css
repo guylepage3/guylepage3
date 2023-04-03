@@ -33,18 +33,13 @@
   src: url('fonts/ABCDiatypeMono-Regular-Trial.woff2') format('woff2');
 }
 
-@font-face {
-  font-family: 'abcdiatype-mono-medium';
-  src: url('fonts/ABCDiatypeMono-Medium-Trial.woff2') format('woff2');
-}
-
 ::selection {
-  background: rgba(255, 255, 255, 1);
+  background: rgba(1, 93, 255, 1);
   color: #000000;
 }
 
 ::-moz-selection {
-  background: rgba(255, 255, 255, 1);
+  background: rgba(1, 93, 255, 1);
   color: #000000;
 }
 
@@ -75,6 +70,18 @@ body {
   font-family: 'abcdiatype', 'Helvetica', Arial, sans-serif;
 }
 
+.light {
+  color: rgba(111, 118, 128, 1);
+}
+
+.dark {
+  color: rgba(51, 57, 64, 1);
+}
+
+.black {
+  color: #000;
+}
+
 a {
   text-underline-offset: 3px;
   padding: 0 2px;
@@ -89,13 +96,12 @@ h1 {
 .p-mono {
   font-size: 0.8rem;
   font-family: 'abcdiatype-mono', 'Courier New', Courier, monospace;
-  color: rgba(51, 57, 64, 1);
 }
 
 .tag-mono {
   padding: 0 4px;
   font-family: 'abcdiatype-mono', Courier, monospace;
-  color: #000000;
+  color: #000;
   background-color: rgba(111, 118, 128, 1);
   border-radius: 1px;
 }
@@ -130,7 +136,6 @@ h1 {
 
 footer {
   font-size: 0.9rem;
-  color: rgba(51, 57, 64, 1);
 }
 
 @media (prefers-color-scheme: dark) {
