@@ -16,23 +16,23 @@
     "contributedTo": 1
   },
   "userStats": {
-    "commitsToMyRepositories": 241,
-    "lastFetch": "2023-04-02T23:18:43.855297+00:00",
+    "commitsToMyRepositories": 248,
+    "lastFetch": "2023-04-04T16:57:59.235012+00:00",
     "login": "guylepage3",
     "name": "Guy Lepage",
     "pullRequests": 374,
-    "commits": 12182,
-    "commitsToAnotherRepositories": 11941,
+    "commits": 12193,
+    "commitsToAnotherRepositories": 11945,
     "pullRequestsToAnotherRepositories": 372,
-    "issues": 1569,
+    "issues": 1570,
     "createdRepositories": 11,
     "directStars": 31,
-    "indirectStars": 614090,
+    "indirectStars": 614840,
     "contributedTo": 76,
     "contributedToOwnRepositories": 6,
     "contributedToNotOwnerRepositories": 70,
     "followers": 144
   },
   "level": "S+",
-  "score": 227922
+  "score": 228174
 }
