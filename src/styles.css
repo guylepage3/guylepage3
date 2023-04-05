@@ -238,6 +238,14 @@ section {
   transition: all .2s ease-in-out;
 }
 
+.linkMono {
+  padding: 0 4px;
+  font-family: var(--font-abcdiatype-mono);
+  color: rgb(var(--black-rgb));
+  background-color: rgb(var(--light-rgb));
+  border-radius: 1px;
+}
+
 .linkLight,
 .linkLight:focus,
 .linkLight:active {
@@ -253,7 +261,8 @@ section {
 }
 
 .linkLight:hover,
-.linkDark:hover {
+.linkDark:hover,
+.linkMono:hover {
   color: rgb(var(--black-rgb));
   background-color: rgb(var(--white-rgb));
   border-radius: 1px;
