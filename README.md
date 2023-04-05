@@ -10,8 +10,8 @@
 </div>
 <br/>
 
-**GitHub developer ranking & statistics**<br/>
-[Awesome GitHub Stats data](https://guylepage3.vercel.app/)
+**GitHub profile README.md ranking, score & statistics**<br/>
+[GitHub Ranking & Stats JSON](https://guylepage3.vercel.app/)
 
 ```text
 Developer ranking            S+    ███████████████████░░░░░░    76.09 %   (Ranked top 23.91 %)
