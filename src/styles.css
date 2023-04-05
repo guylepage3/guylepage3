@@ -217,6 +217,10 @@ h1 {
   background-color: rgb(var(--black-rgb));
 }
 
+section {
+  margin: 80px 0 0;
+}
+
 /* Links */
 .linkLight,
 .linkDark {
@@ -296,6 +300,10 @@ pre {
 
 /* Mobile */
 @media (max-width: 700px) {
+  section {
+    margin: 60px 0 0;
+  }
+
   .nav {
     font-size: 0.95rem;
     padding: 0 1.25rem;
