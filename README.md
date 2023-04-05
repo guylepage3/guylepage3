@@ -11,7 +11,7 @@
 <br/>
 
 **GitHub Profile Readme.md Ranking & Statistics**<br/>
-[GitHub ranking & stats JSON](https://guylepage3.vercel.app/)
+[Ranking & stats JSON data](https://guylepage3.vercel.app/)
 
 ```text
 Developer ranking            S+    ███████████████████░░░░░░    76.09 %   (Ranked top 23.91 %)
