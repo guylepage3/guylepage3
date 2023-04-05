@@ -1,13 +1,15 @@
 /* Globals */
 :root {
   --max-width: 1100px;
-  --border-radius: 10px;
-  --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
-    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
-    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+  --border-radius: 8px;
+  --font-abcdiatype-light: 'abcdiatype-light', 'Helvetica', Arial, sans-serif;
+  --font-abcdiatype-regular: 'abcdiatype', 'Helvetica', Arial, sans-serif;
+  --font-abcdiatype-semi-mono: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
+  --font-abcdiatype-semi-mono-var: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
+  --font-abcdiatype-mono: 'abcdiatype-mono', 'Courier New', monospace;
+  --font-abcdiatype-mono-light: 'abcdiatype-mono-light', 'Courier New', monospace;
   --background-start-rgb: 2, 4, 9;
   --background-end-rgb: 14, 17, 22;
-
   --tile-start-rgb: 239, 245, 249;
   --tile-end-rgb: 228, 232, 233;
   --tile-border: conic-gradient(
@@ -24,7 +26,7 @@
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 2, 4, 9;
-    --background-end-rgb: 14, 17, 22;
+    --background-end-rgb: 2, 4, 9;
     --white-rgb: 255, 255, 255;
     --black-rgb: 0, 0, 0;
     --light-rgb: 111, 118, 128;
@@ -37,7 +39,7 @@
       #ffffff10,
       #ffffff10,
       #ffffff20,
-      #ffffff20,
+      #ffffff80,
       #ffffff10,
       #ffffff10,
       #ffffff10);
@@ -60,8 +62,23 @@
 }
 
 @font-face {
+  font-family: 'abcdiatype-semi-mono';
+  src: url('fonts/ABCDiatypeSemi-Mono-Regular-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'abcdiatype-semi-mono-var';
+  src: url('fonts/ABCDiatypeSemi-MonoVariable-Trial.woff2') format('woff2');
+}
+
+@font-face {
   font-family: 'abcdiatype-mono';
   src: url('fonts/ABCDiatypeMono-Regular-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'abcdiatype-mono-light';
+  src: url('fonts/ABCDiatypeMono-Light-Trial.woff2') format('woff2');
 }
 
 ::selection {
@@ -98,7 +115,7 @@ body {
   background: linear-gradient(to bottom,
       transparent,
       rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
-  font-family: 'abcdiatype', 'Helvetica', Arial, sans-serif;
+  font-family: var(--font-abcdiatype-regular);
   min-height: 100vh;
 }
 
@@ -107,20 +124,21 @@ a {
 }
 
 h1 {
-  font-family: 'abcdiatype-light', 'Helvetica', Arial, sans-serif;
-  font-size: 1.25rem;
+  font-family: var(--font-abcdiatype-semi-mono);
+  font-size: 1.5rem;
+  font-weight: 400;
   letter-spacing: 0.0125rem;
 }
 
 .p-mono {
   font-size: 0.8rem;
-  font-family: 'abcdiatype-mono', 'Courier New', Courier, monospace;
+  font-family: var(--font-abcdiatype-mono);
   color: rgb(var(--light-rgb));
 }
 
 .tag-mono {
   padding: 0 4px;
-  font-family: 'abcdiatype-mono', Courier, monospace;
+  font-family: var(--font-abcdiatype-mono);
   color: rgb(var(--black-rgb));
   background-color: rgb(var(--light-rgb));
   border-radius: 1px;
@@ -128,7 +146,7 @@ h1 {
 
 .p-code {
   font-size: 0.75rem;
-  font-family: 'abcdiatype-mono', 'Courier New', Courier, monospace;
+  font-family: var(--font-abcdiatype-mono);
   line-height: 165%;
 }
 
@@ -149,33 +167,26 @@ h1 {
   margin-right: 1rem;
 }
 
-.logo {
-  width: 25px;
-  height: 25px;
-  background-color: rgb(var(--light-rgb));
-}
-
-.logo:hover {
-  background-color: rgb(var(--white-rgb));
-}
-
 .focalbutton {
   position: relative;
+  transition: all .2s ease-in-out;
 }
 
 .focalbutton {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 35px;
+  width: unset;
   height: 35px;
-  padding: 22px 115%;
-  color: rgb(var(--light-rgb));
+  padding: 22px 25px;
+  color: rgb(var(--white-rgb));
   transform: translateZ(0);
   border-radius: var(--border-radius);
   overflow: hidden;
   box-shadow: 0px 2px 8px -2px rgb(var(--black-rgb));
-  border: 3px solid rgba(21, 24, 29,0.65);
+  border: 1px solid rgba(0, 24, 29,0.15);
+  font-family: var(--font-abcdiatype-mono);
+  font-size: 0.9rem;
 }
 
 .focalbutton::before,
@@ -187,21 +198,23 @@ h1 {
 
 /* Conic Gradient Animation */
 .focalbutton::before {
-  animation: 6s rotate linear infinite;
-  width: 200%;
-  height: 200%;
+  animation: 5s rotate linear infinite;
+  width: 500%;
+  height: 500%;
   background: var(--tile-border);
+  background-color: rgba(255,255,255,0.05);
 }
 
 /* Inner Square */
 .focalbutton::after {
   inset: 0;
-  padding: 1px;
+  padding: 1.15px;
   border-radius: var(--border-radius);
-  background: linear-gradient(to bottom right,
+  /* background: linear-gradient(to bottom right,
     rgba(var(--tile-start-rgb), 1),
-    rgba(var(--tile-end-rgb), 1));
+    rgba(var(--tile-end-rgb), 1)); */
   background-clip: content-box;
+  background-color: rgb(var(--black-rgb));
 }
 
 /* Links */
@@ -215,6 +228,7 @@ h1 {
 
 .linkNav {
   color: rgb(var(--light-rgb));
+  font-family: var(--font-abcdiatype-semi-mono);
   padding: 0 4px;
   margin: 0 4px;
   transition: all .2s ease-in-out;
@@ -235,17 +249,27 @@ h1 {
 }
 
 .linkLight:hover,
-.linkDark:hover,
-.linkNav:hover {
+.linkDark:hover {
   color: rgb(var(--black-rgb));
   background-color: rgb(var(--white-rgb));
   border-radius: 1px;
   text-decoration: none;
 }
 
+.linkNav:hover {
+  color: rgb(var(--white-rgb));
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.focalbutton:hover {
+  background-color: rgb(var(--white-rgb));
+}
+
 /* Footer */
 footer {
-  font-size: 0.9rem;
+  font-family: var(--font-abcdiatype-semi-mono);
+  font-size: 0.8rem;
   color: rgb(var(--light-rgb));
 }
 
@@ -267,16 +291,15 @@ footer {
 
 pre {
   font-weight: 300;
-  font-family: var(--font-mono);
+  font-family: var(--font-abcdiatype-mono);
 }
 
 /* Mobile */
 @media (max-width: 700px) {
   .nav {
-    font-size: 1.3rem;
-    line-height: 1.2;
+    font-size: 0.95rem;
     padding: 0 1.25rem;
-    height: 80px;
+    height: 70px;
   }
 }
 
