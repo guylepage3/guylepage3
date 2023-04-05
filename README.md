@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-**GitHub profile README.md ranking, score & statistics**<br/>
+**GitHub Profile Readme.md Ranking & Statistics**<br/>
 [GitHub ranking & stats JSON](https://guylepage3.vercel.app/)
 
 ```text
