@@ -1,6 +1,6 @@
-//Takes yesterday's devRanking.json file and outputs new data
+// Takes devRanking.json and reconfigures the JSON data
 
-async function loadCommits() {
+async function loadRankStats() {
   const response = await fetch(
     "https://raw.githubusercontent.com/guylepage3/guylepage3/main/devRanking.json"
   );
@@ -24,6 +24,9 @@ async function loadCommits() {
   ).toFixed(0);
   const dataScoreRank = ((data.score / 300000) * 100).toFixed(2);
   const rankDescriptor = (100 - dataScoreRank).toFixed(2);
+  
+  const lastFetch = data.userStats.lastFetch 
+  const fetchDateTime = lastFetch.replace("T", " ").slice(0, -13);
 
   var obj = {};
   obj.rank = data.level;
@@ -38,6 +41,7 @@ async function loadCommits() {
   obj.issues = data.userStats.issues.toLocaleString();
   obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
+  obj.date_time_fetch = fetchDateTime;
   obj.morning = parseInt(morningCommits, 10).toLocaleString();
   obj.late_morning = parseInt(lateMorningCommits, 10).toLocaleString();
   obj.afternoon = parseInt(afternoonCommits, 10).toLocaleString();
@@ -46,4 +50,4 @@ async function loadCommits() {
   document.getElementById("json").innerHTML = JSON.stringify(obj, undefined, 2);
 }
 
-loadCommits();
+loadRankStats();
