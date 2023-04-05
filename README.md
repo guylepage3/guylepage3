@@ -31,7 +31,7 @@ Evening             302 commits    █░░░░░░░░░░░░░░
 ```
 
 <div align="left">
-  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">Additional information</a>
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">More about Guy Lepage</a>
 </div>
 <br/>
 <div align="left">
