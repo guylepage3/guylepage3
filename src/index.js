@@ -2,7 +2,7 @@
 
 async function loadRankStats() {
   const response = await fetch(
-    "https://raw.githubusercontent.com/guylepage3/guylepage3/main/devRanking.json"
+    "https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank"
   );
   const data = await response.json();
   const starTotal = data.userStats.directStars + data.userStats.indirectStars;
