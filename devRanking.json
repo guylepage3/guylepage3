@@ -15,25 +15,23 @@
     "contributedTo": 1
   },
   "userStats": {
-    "commitsToMyRepositories": 257,
-    "lastFetch": "2023-04-05T13:19:39.6098346+00:00",
-    "login": "guylepage3",
-    "name": "Guy Lepage",
-    "pullRequests": 374,
-    "commits": 12202,
-    "commitsToAnotherRepositories": 11945,
-    "pullRequestsToAnotherRepositories": 372,
-    "issues": 1571,
-    "createdRepositories": 11,
-    "directStars": 31,
-    "indirectStars": 615049,
-    "contributedTo": 76,
-    "contributedToOwnRepositories": 6,
-    "contributedToNotOwnerRepositories": 70,
-    "followers": 144
+    "commitsToMyRepositories": "▓▓▓",
+    "lastFetch": "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
+    "login": "░░░░░░░░░░",
+    "name": "░░░░░░░░░░",
+    "pullRequests": "▓▓▓",
+    "commits": "▓▓▓▓▓",
+    "commitsToAnotherRepositories": "▓▓▓▓▓",
+    "pullRequestsToAnotherRepositories": "▓▓▓",
+    "issues": "▓▓▓▓",
+    "createdRepositories": "▓▓",
+    "directStars": "▓▓",
+    "indirectStars": "▓▓▓▓▓▓",
+    "contributedTo": "▓▓",
+    "contributedToOwnRepositories": "▓",
+    "contributedToNotOwnerRepositories": "▓▓",
+    "followers": "▓▓▓"
   },
   "level": "S+",
   "score": 228259.69999999998
 }
-
-// devRanking.json is used when awesome-github-stats user-stats is having issues.
