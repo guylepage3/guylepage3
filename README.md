@@ -11,7 +11,7 @@
 <br/>
 
 **GitHub developer ranking & statistics**<br/>
-[Awesome GitHub Stats data](https://guylepage3.vercel.app/src/index.html)
+[Awesome GitHub Stats data](https://guylepage3.vercel.app/)
 
 ```text
 Developer ranking            S+    ███████████████████░░░░░░    76.09 %   (Ranked top 23.91 %)
