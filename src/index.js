@@ -26,7 +26,7 @@ async function loadRankStats() {
   const rankDescriptor = (100 - dataScoreRank).toFixed(2);
   
   const lastFetch = data.userStats.lastFetch 
-  const fetchDateTime = lastFetch.replace("T", " ").slice(0, -13);
+  const fetchDateTime = lastFetch.replace("T", " ").slice(0, -14);
 
   var obj = {};
   obj.rank = data.level;
