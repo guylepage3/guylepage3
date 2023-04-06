@@ -31,10 +31,7 @@
     --dark-rgb: 51, 57, 64;
     --dark-background-rgb: 14, 17, 22;
     --primary-rgb: 1, 93, 255;
-<<<<<<< HEAD
-=======
     --border-rgb: 21, 24, 29;
->>>>>>> e931a094a41314c4115f1ad468cc8c29c5d6d73d
     --tile-start-rgb: 14, 17, 22;
     --tile-end-rgb: 2, 4, 9;
     --tile-border: conic-gradient(#ffffff10,
@@ -292,13 +289,8 @@ section {
   -ms-user-select: none;
   user-select: none;
   border: 1px solid yellow;
-<<<<<<< HEAD
-  background-color: rgba(14, 17, 22, 1);
-  border: 1.5px solid rgba(21, 24, 29, 1);
-=======
   background-color: rgb(var(--dark-background-rgb));
   border: 1.5px solid rgb(var(--border-rgb));
->>>>>>> e931a094a41314c4115f1ad468cc8c29c5d6d73d
   border-radius: 4px;
 }
 
