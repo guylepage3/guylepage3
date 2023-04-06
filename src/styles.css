@@ -331,28 +331,6 @@ footer {
   border-radius: var(--border-radius);
 }
 
-.pre-code {
-  padding: 0 1.5rem 0 0;
-  overflow-x: scroll;
-  tab-size: 2;
-  counter-reset: linecounter;
-}
-
-.pre-code span.line {
-  counter-increment: linecounter;
-}
-
-.pre-code span.line::before {
-  content: counter(linecounter);
-  color: rgba(51, 57, 64, 1);
-  width: 30px;
-  display: inline-block;
-  border-right: 1.5px solid rgba(21, 24, 29, 1);
-  padding: 0 1.5rem 0 0;
-  margin: 0 1.75rem 0 0;
-  text-align: right;
-}
-
 /* Mobile */
 @media (max-width: 700px) {
   section {

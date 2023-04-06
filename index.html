@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="src/styles.css">
   <title>GH readme.md</title>
   <script async defer src="https://buttons.github.io/buttons.js"></script>
+  
 </head>
 
 <body>
@@ -34,7 +35,11 @@
       </div>
       <div class="pre-section"
         style="display:block;width:100%;padding:3.125rem 1.5rem;margin:0 0 2rem;">
-        <pre id="json" class="p-code pre-code"></pre>
+        <p id="demo" class="p-code selection-none"
+          style="color:rgba(51,57,64,1);display:inline-block;padding:0 1.5rem 0 0;line-height:165%;">
+        </p>
+        <pre id="json" class="p-code"
+          style="display:inline-block;padding:0 2rem;border-left:1.5px solid rgba(21,24,29,1);"></pre>
       </div>
       <p class="p-mono" style="margin:0 0 1.5rem;">
         <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px"> Follow @guylepage3</a></div> <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3/fork" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px">Fork</a></div> <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px">Star</a></div>
@@ -53,6 +58,15 @@
       </p>
     </footer>
   </section>
+  <script>
+    let text = "";
+    let i = 0;
+    while (i < 19) {
+      i++;
+      text += "<span>" + i + "</span><br>";
+      }
+    document.getElementById("demo").innerHTML = text;
+    </script>
   <script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
   <script src="src/index.js"></script>
 </body>
