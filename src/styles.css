@@ -29,7 +29,12 @@
     --black-rgb: 0, 0, 0;
     --light-rgb: 111, 118, 128;
     --dark-rgb: 51, 57, 64;
+    --dark-background-rgb: 14, 17, 22;
     --primary-rgb: 1, 93, 255;
+<<<<<<< HEAD
+=======
+    --border-rgb: 21, 24, 29;
+>>>>>>> e931a094a41314c4115f1ad468cc8c29c5d6d73d
     --tile-start-rgb: 14, 17, 22;
     --tile-end-rgb: 2, 4, 9;
     --tile-border: conic-gradient(#ffffff10,
@@ -287,8 +292,13 @@ section {
   -ms-user-select: none;
   user-select: none;
   border: 1px solid yellow;
+<<<<<<< HEAD
   background-color: rgba(14, 17, 22, 1);
   border: 1.5px solid rgba(21, 24, 29, 1);
+=======
+  background-color: rgb(var(--dark-background-rgb));
+  border: 1.5px solid rgb(var(--border-rgb));
+>>>>>>> e931a094a41314c4115f1ad468cc8c29c5d6d73d
   border-radius: 4px;
 }
 
@@ -326,31 +336,38 @@ footer {
 }
 
 .pre-section {
-  background-color: rgba(14, 17, 22, 1);
-  border: 1.5px solid rgba(21, 24, 29, 1);
+  display: flex;
+  padding: 3.125rem 2.5rem;
+  margin: 0 0 2rem;
+  background-color: rgb(var(--dark-background-rgb));
+  border: 1.5px solid rgb(var(--border-rgb));
   border-radius: var(--border-radius);
 }
 
-.pre-code {
-  padding: 0 1.5rem 0 0;
-  overflow-x: scroll;
-  tab-size: 2;
-  counter-reset: linecounter;
-}
-
-.pre-code span.line {
-  counter-increment: linecounter;
-}
-
-.pre-code span.line::before {
-  content: counter(linecounter);
+.pre-code-nums {
   color: rgba(51, 57, 64, 1);
-  width: 30px;
-  display: inline-block;
-  border-right: 1.5px solid rgba(21, 24, 29, 1);
+  display: flex;
+  flex-direction: column;
   padding: 0 1.5rem 0 0;
-  margin: 0 1.75rem 0 0;
-  text-align: right;
+  line-height: 165%;
+  border-right: 1.5px solid rgb(var(--border-rgb));
+}
+
+.pre-code {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem;
+  overflow-x: scroll;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(360deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
 }
 
 /* Mobile */
@@ -364,14 +381,17 @@ footer {
     padding: 0 1.25rem;
     height: 70px;
   }
-}
 
-@keyframes rotate {
-  from {
-    transform: rotate(360deg);
+  .pre-section {
+    padding: 2.75rem 1.75rem;
+  }
+  
+
+  .pre-code-nums {
+    padding: 0 1rem 0 0;
   }
 
-  to {
-    transform: rotate(0deg);
+  .pre-code {
+    padding: 0 1.5rem;
   }
 }

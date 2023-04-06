@@ -9,27 +9,6 @@
   <link rel="stylesheet" href="src/styles.css">
   <title>GH readme.md</title>
   <script async defer src="https://buttons.github.io/buttons.js"></script>
-  <script type="text/javascript">
-      function addLineClass (pre) {
-        var lines = pre.innerText.split("\n"); // can use innerHTML also
-        while(pre.childNodes.length > 0) {
-          pre.removeChild(pre.childNodes[0]);
-        }
-        for(var i = 0; i < lines.length; i++) {
-          var span = document.createElement("span");
-          span.className = "line";
-          span.innerText = lines[i]; // can use innerHTML also
-          pre.appendChild(span);
-          pre.appendChild(document.createTextNode("\n"));
-        }
-      }
-      window.addEventListener("load", function () {
-        var pres = document.getElementsByTagName("pre");
-        for (var i = 0; i < pres.length; i++) {
-          addLineClass(pres[i]);
-        }
-      }, false);
-      </script>
 
 </head>
 
@@ -50,24 +29,33 @@
           GitHub Profile Readme.md Ranking & Statistics
         </h1>
         <p class="p-mono" style="margin:0 0 2rem;">
-          // Takes <a href="https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank" class="linkDark" target="_blank"
-            rel="noreferrer noopener">awesome-github-stats [user-stats]</a> and reconfigures the JSON data.
+          // Takes <a href="https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank" class="linkDark"
+            target="_blank" rel="noreferrer noopener">awesome-github-stats [user-stats]</a> and reconfigures the JSON
+          data.
         </p>
       </div>
-      <div class="pre-section"
-        style="display:block;width:100%;padding:3.125rem 1.5rem;margin:0 0 2rem;">
-        <pre id="json" class="p-code pre-code"></pre>
+      <div class="pre-section">
+        <p id="demo" class="pre-code-nums p-code selection-none"></p>
+        <pre id="json" class="pre-code p-code"></pre>
       </div>
       <p class="p-mono" style="margin:0 0 1.5rem;">
-        <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px"> Follow @guylepage3</a></div> <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3/fork" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px">Fork</a></div> <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3" aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px" class="scheme-dark" style="margin-right:6px">Star</a></div>
+      <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3"
+          aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px"
+            class="scheme-dark" style="margin-right:6px"> Follow @guylepage3</a></div>
+      <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3/fork"
+          aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px"
+            class="scheme-dark" style="margin-right:6px">Fork</a></div>
+      <div class="widget widget-lg"><a class="btn" href="https://github.com/guylepage3/guylepage3"
+          aria-label="Follow @guylepage3 on GitHub"><img src="https://ico.vercel.app/github/" width="17px" height="17px"
+            class="scheme-dark" style="margin-right:6px">Star</a></div>
       </p>
     </main>
     <footer>
       <p style="margin:0 0 0.75rem;">
         Follow: <a href="https://twitter.com/guylepage3/" class="linkDark" target=" _blank"
           rel="noreferrer noopener">Twitter</a>, <a href="https://www.linkedin.com/in/guylepage/" class="linkDark"
-          target=" _blank" rel="noreferrer noopener">LinkedIn</a>, <a href="https://github.com/guylepage3/" class="linkDark"
-          target=" _blank" rel="noreferrer noopener">GitHub</a>.
+          target=" _blank" rel="noreferrer noopener">LinkedIn</a>, <a href="https://github.com/guylepage3/"
+          class="linkDark" target=" _blank" rel="noreferrer noopener">GitHub</a>.
       </p>
       <p style="margin:0 0 2rem;">
         &#169; <span id="year"></span>
@@ -75,6 +63,15 @@
       </p>
     </footer>
   </section>
+  <script>
+    let text = "";
+    let i = 0;
+    while (i < 19) {
+      i++;
+      text += "<span>" + i + "</span>";
+    }
+    document.getElementById("demo").innerHTML = text;
+  </script>
   <script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
   <script src="src/index.js"></script>
 </body>
