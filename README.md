@@ -319,5 +319,5 @@ Evening             302 commits    █░░░░░░░░░░░░░░
 <br />
 
 ```text
-Readme.md Status:  ███████████████████░░░░░░  75% complete
+Status:  ███████████████████░░░░░░  75% complete
 ```
