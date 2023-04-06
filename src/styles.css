@@ -2,24 +2,22 @@
 :root {
   --max-width: 1100px;
   --border-radius: 8px;
-  --font-abcdiatype-light: 'abcdiatype-light', 'Helvetica', Arial, sans-serif;
   --font-abcdiatype-regular: 'abcdiatype', 'Helvetica', Arial, sans-serif;
-  --font-abcdiatype-semi-mono: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
-  --font-abcdiatype-semi-mono-var: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
   --font-abcdiatype-mono: 'abcdiatype-mono', 'Courier New', monospace;
-  --font-abcdiatype-mono-light: 'abcdiatype-mono-light', 'Courier New', monospace;
+  --font-abcdiatype-semi-mono: 'abcdiatype-semi-mono', 'Courier New', monospace;
+  --font-abcdiatype-semi-mono-light: 'abcdiatype-semi-mono-light', 'Courier New', monospace;
+  --font-abcdiatype-semi-mono-var: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
   --background-start-rgb: 2, 4, 9;
   --background-end-rgb: 14, 17, 22;
   --tile-start-rgb: 239, 245, 249;
   --tile-end-rgb: 228, 232, 233;
-  --tile-border: conic-gradient(
-    #00000080,
-    #00000040,
-    #00000030,
-    #00000020,
-    #00000010,
-    #00000010,
-    #00000080);
+  --tile-border: conic-gradient(#00000080,
+      #00000040,
+      #00000030,
+      #00000020,
+      #00000010,
+      #00000010,
+      #00000080);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -32,17 +30,15 @@
     --light-rgb: 111, 118, 128;
     --dark-rgb: 51, 57, 64;
     --primary-rgb: 1, 93, 255;
-    
     --tile-start-rgb: 14, 17, 22;
     --tile-end-rgb: 2, 4, 9;
-    --tile-border: conic-gradient(
-      #ffffff10,
-      #ffffff10,
-      #ffffff20,
-      #ffffff80,
-      #ffffff10,
-      #ffffff10,
-      #ffffff10);
+    --tile-border: conic-gradient(#ffffff10,
+        #ffffff10,
+        #ffffff20,
+        #ffffff80,
+        #ffffff10,
+        #ffffff10,
+        #ffffff10);
   }
 }
 
@@ -52,13 +48,8 @@
 }
 
 @font-face {
-  font-family: 'abcdiatype-medium';
-  src: url('fonts/ABCDiatype-Medium-Trial.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'abcdiatype-light';
-  src: url('fonts/ABCDiatype-Light-Trial.woff2') format('woff2');
+  font-family: 'abcdiatype-mono';
+  src: url('fonts/ABCDiatypeMono-Regular-Trial.woff2') format('woff2');
 }
 
 @font-face {
@@ -67,18 +58,13 @@
 }
 
 @font-face {
+  font-family: 'abcdiatype-semi-mono-light';
+  src: url('fonts/ABCDiatypeSemi-Mono-Light-Trial.woff2') format('woff2');
+}
+
+@font-face {
   font-family: 'abcdiatype-semi-mono-var';
   src: url('fonts/ABCDiatypeSemi-MonoVariable-Trial.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'abcdiatype-mono';
-  src: url('fonts/ABCDiatypeMono-Regular-Trial.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'abcdiatype-mono-light';
-  src: url('fonts/ABCDiatypeMono-Light-Trial.woff2') format('woff2');
 }
 
 ::selection {
@@ -124,9 +110,9 @@ a {
 }
 
 h1 {
-  font-family: var(--font-abcdiatype-semi-mono);
+  font-family: var(--font-abcdiatype-semi-mono-light);
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 0.0125rem;
 }
 
@@ -145,8 +131,9 @@ h1 {
 }
 
 .p-code {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-family: var(--font-abcdiatype-mono);
+  font-weight: 500;
   line-height: 165%;
 }
 
@@ -184,7 +171,7 @@ h1 {
   border-radius: var(--border-radius);
   overflow: hidden;
   box-shadow: 0px 2px 8px -2px rgb(var(--black-rgb));
-  border: 1px solid rgba(0, 24, 29,0.15);
+  border: 1px solid rgba(0, 24, 29, 0.15);
   font-family: var(--font-abcdiatype-mono);
   font-size: 0.9rem;
 }
@@ -202,7 +189,7 @@ h1 {
   width: 500%;
   height: 500%;
   background: var(--tile-border);
-  background-color: rgba(255,255,255,0.05);
+  background-color: rgba(255, 255, 255, 0.05);
 }
 
 /* Inner Square */
@@ -210,9 +197,6 @@ h1 {
   inset: 0;
   padding: 1.15px;
   border-radius: var(--border-radius);
-  /* background: linear-gradient(to bottom right,
-    rgba(var(--tile-start-rgb), 1),
-    rgba(var(--tile-end-rgb), 1)); */
   background-clip: content-box;
   background-color: rgb(var(--black-rgb));
 }
@@ -243,7 +227,7 @@ section {
   font-family: var(--font-abcdiatype-mono);
   color: rgb(var(--black-rgb));
   background-color: rgb(var(--light-rgb));
-  border-radius: 1px;
+  border-radius: 1.5px;
 }
 
 .linkLight,
@@ -279,6 +263,35 @@ section {
   background-color: rgb(var(--white-rgb));
 }
 
+/* Buttons */
+.widget {
+  display: inline-block;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+  font-size: 0;
+  line-height: 0;
+}
+
+.btn {
+  box-sizing: unset;
+  position: relative;
+  padding: 0.65rem 0.75rem;
+  font-size: 0.9rem;
+  line-height: 16px;
+  color: rgb(var(--light-rgb));
+  background-color: #1a1e23;
+  display: inline-flex;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid yellow;
+  background-color: rgba(14, 17, 22, 1);
+  border: 1.5px solid rgba(21, 24, 29, 1);
+  border-radius: 4px;
+}
+
 /* Footer */
 footer {
   font-family: var(--font-abcdiatype-semi-mono);
@@ -286,9 +299,19 @@ footer {
   color: rgb(var(--light-rgb));
 }
 
+@media (prefers-color-scheme: light) {
+  .scheme-light {
+    color: #000000;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
+  }
+
+  .scheme-dark {
+    filter: invert(47%) sepia(4%) saturate(1063%) hue-rotate(176deg) brightness(97%) contrast(89%);
   }
 }
 
@@ -302,9 +325,32 @@ footer {
   min-height: 100vh;
 }
 
-pre {
-  font-weight: 300;
-  font-family: var(--font-abcdiatype-mono);
+.pre-section {
+  background-color: rgba(14, 17, 22, 1);
+  border: 1.5px solid rgba(21, 24, 29, 1);
+  border-radius: var(--border-radius);
+}
+
+.pre-code {
+  padding: 0 1.5rem 0 0;
+  overflow-x: scroll;
+  tab-size: 2;
+  counter-reset: linecounter;
+}
+
+.pre-code span.line {
+  counter-increment: linecounter;
+}
+
+.pre-code span.line::before {
+  content: counter(linecounter);
+  color: rgba(51, 57, 64, 1);
+  width: 30px;
+  display: inline-block;
+  border-right: 1.5px solid rgba(21, 24, 29, 1);
+  padding: 0 1.5rem 0 0;
+  margin: 0 1.75rem 0 0;
+  text-align: right;
 }
 
 /* Mobile */
