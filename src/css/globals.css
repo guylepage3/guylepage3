@@ -31,9 +31,9 @@
     --black-rgb: 0, 0, 0;
     --light-rgb: 111, 118, 128;
     --dark-rgb: 51, 57, 64;
-    --dark-background-rgb: 14, 17, 22;
+    --dark-highlight-rgb: 21, 24, 29;
+    --dark-dimmed-rgb: 14, 17, 22;
     --primary-rgb: 1, 93, 255;
-    --border-rgb: 21, 24, 29;
     --tile-start-rgb: 14, 17, 22;
     --tile-end-rgb: 2, 4, 9;
     --tile-border: conic-gradient(#ffffff10,

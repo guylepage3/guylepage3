@@ -139,8 +139,8 @@ footer {
   display: flex;
   padding: 3.125rem 2.5rem;
   margin: 0 0 2rem;
-  background-color: rgb(var(--dark-background-rgb));
-  border: 1.5px solid rgb(var(--border-rgb));
+  background-color: rgb(var(--dark-dimmed-rgb));
+  border: 1.5px solid rgb(var(--dark-dimmed-rgb));
   border-radius: var(--border-radius);
 }
 
@@ -150,7 +150,7 @@ footer {
   flex-direction: column;
   padding: 0 1.5rem 0 0;
   line-height: 165%;
-  border-right: 1.5px solid rgb(var(--border-rgb));
+  border-right: 1.5px solid rgb(var(--dark-highlight-rgb));
 }
 
 .pre-code {
