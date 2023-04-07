@@ -319,5 +319,5 @@ Evening             302 commits    █░░░░░░░░░░░░░░
 <br />
 
 ```text
-Status: Loading...  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░  80% complete
+Status:  ████████████████████░░░░░  80% complete
 ```
