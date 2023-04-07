@@ -11,7 +11,8 @@
 </div>
 <br />
 
-**GitHub Profile Readme.md Ranking & Statistics** — [JSON explorer](https://guylepage3.vercel.app/)
+**GitHub Profile Readme.md Ranking & Statistics**
+[JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
 Developer ranking            S+    ███████████████████░░░░░░    76.12 %   (Ranked top 23.88 %)
