@@ -320,5 +320,6 @@ Evening             303 commits    █░░░░░░░░░░░░░░
 <br />
 
 ```text
-Status:  [████████████████████░░░░░  80% complete](https://github.com/guylepage3/guylepage3/issues/1)
+Status:  ████████████████████░░░░░  80% complete
 ```
+[Critical Path](https://github.com/guylepage3/guylepage3/issues/1)
