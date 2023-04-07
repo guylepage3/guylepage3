@@ -11,8 +11,7 @@
 </div>
 <br />
 
-**GitHub Profile Readme.md Ranking & Statistics**<br/>
-[Ranking & stats JSON data](https://guylepage3.vercel.app/)
+**GitHub Profile Readme.md Ranking & Statistics** — [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
 Developer ranking            S+    ███████████████████░░░░░░    76.12 %   (Ranked top 23.88 %)
@@ -32,7 +31,7 @@ Evening             302 commits    █░░░░░░░░░░░░░░
 ```
 
 <div align="left">
-  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">More about Guy Lepage</a>
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">More about me...</a>
 </div>
 <br/>
 <div align="left">
@@ -320,5 +319,5 @@ Evening             302 commits    █░░░░░░░░░░░░░░
 <br />
 
 ```text
-Status:  ████████████████████░░░░░  80% complete
+Status: Loading...  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░  80% complete
 ```
