@@ -15,20 +15,20 @@
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
-Developer ranking            S+    ███████████████████░░░░░░    76.17 %   (Ranked top 23.83 %)
-Score                   228,509    ███████████████████░░░░░░    76.17 %   (228,509 / 300,000)
+Developer ranking            S+    ███████████████████░░░░░░     76.17 %   (Ranked top 23.83 %)
+Score                   228,509    ███████████████████░░░░░░     76.17 %   (228,509 / 300,000)
 
-All-time stars          615,523    █████████████████████████   100.00 %   (Direct & indirect)
-All-time commits         12,245    █████████████████████████   100.00 %
-All-time PR's               374    █████████████████████████   100.00 %
-All-time issues           1,577    █████████████████████████   100.00 %
-Contributed to               76    █████████████████████████   100.00 %
-GitHub followers            145    █████████████████████████   100.00 %
+All-time stars          615,523    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         12,245    █████████████████████████    100.00 %
+All-time PR's               374    █████████████████████████    100.00 %
+All-time issues           1,577    █████████████████████████    100.00 %
+Contributed to               76    █████████████████████████    100.00 %
+GitHub followers            145    █████████████████████████    100.00 %
 
-Morning           3,769 commits    ████████░░░░░░░░░░░░░░░░░    30.78 %   (4am – 9am)
-Late morning      5,543 commits    ███████████░░░░░░░░░░░░░░    45.28 %   (9am – 2pm)
-Afternoon         2,630 commits    █████░░░░░░░░░░░░░░░░░░░░    21.48 %   (2pm – 7pm)
-Evening             303 commits    █░░░░░░░░░░░░░░░░░░░░░░░░     2.47 %   (7pm – 4am)
+Morning           3,769 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
+Late morning      5,543 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
+Afternoon         2,630 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
+Evening             303 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
 ```
 
 <div align="left">

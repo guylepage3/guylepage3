@@ -28,22 +28,22 @@ async function loadRankStats() {
 
   var obj = {};
   obj.rank = data.level;
-  obj.rankPercent = dataScoreRank + " %";
-  obj.topRankPercent = rankDescriptor + " %";
+  obj.rank_percent = dataScoreRank + " %";
+  obj.top_rank_percent = rankDescriptor + " %";
   obj.score = parseInt(data.score, 10).toLocaleString();
-  obj.scoreCalc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
-  obj.scorePercent = dataScoreRank + " %";
+  obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
+  obj.score_percent = dataScoreRank + " %";
   obj.stars = starTotal.toLocaleString();
   obj.commits = data.userStats.commits.toLocaleString();
-  obj.pullRequests = data.userStats.pullRequests.toLocaleString();
+  obj.pull_requests = data.userStats.pullRequests.toLocaleString();
   obj.issues = data.userStats.issues.toLocaleString();
-  obj.contributedTo = data.userStats.contributedTo.toLocaleString();
+  obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
-  obj.fetchDateTime = fetchLastFetch;
-  obj.morningCommits = parseInt(getMorningCommits, 10).toLocaleString();
-  obj.lateMorningCommits = parseInt(getLateMorningCommits, 10).toLocaleString();
-  obj.afternoonCommits = parseInt(getAfternoonCommits, 10).toLocaleString();
-  obj.eveningCommits = parseInt(getEveningCommits, 10).toLocaleString();
+  obj.fetch_date_time = fetchLastFetch;
+  obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
+  obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
+  obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();
+  obj.evening_commits = parseInt(getEveningCommits, 10).toLocaleString();
 
   document.getElementById("json").innerHTML = JSON.stringify(obj, undefined, 2);
 }
