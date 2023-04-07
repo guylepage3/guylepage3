@@ -1,0 +1,68 @@
+/* Buttons */
+/* */
+/* For each button type, define text, background, and border color. */
+:root {
+  --btn-font-size: 0.9rem;  /* Custom GL */
+  --btn-line-height: 1rem;  /* Custom GL */
+  --btn-letter-spacing: unset;  /* Custom GL */
+  --btn-text-transform: unset;  /* Custom GL */
+  --btn-padding-y: 0.7rem;  /* Custom GL */
+  --btn-padding-x: 1.15rem;  /* Custom GL */
+  --btn-transition: all .2s ease-in-out;  /* Custom GL */
+}
+
+.btn {
+  box-sizing: unset;
+  position: relative;
+  display: inline-flex;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: var(--btn-font-size);
+  letter-spacing: var(--btn-letter-spacing);
+  text-transform: var(--btn-text-transform);
+  padding: var(--btn-padding-y) var(--btn-padding-x);
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn-dark {
+  color: rgb(var(--light-rgb));
+  background-color: rgb(var(--dark-background-rgb));
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(var(--dark-background-rgb));
+  border-radius: var(--border-radius-sm);
+}
+
+.btn-dark:hover,
+.btn-white:focus,
+.btn-white:focus-within,
+.btn-white:active {
+  color: rgb(var(--black-rgb));
+  background-color: rgb(var(--white-rgb));
+  border-color: rgb(var(--white-rgb));
+  transition: var(--btn-transition);
+}
+
+.btn-dark:hover img.scheme-dark {
+  filter: invert(0%) sepia(100%) saturate(7500%) hue-rotate(347deg) brightness(105%) contrast(111%);
+}
+
+.btn-dark:focus-visible {
+  outline-color: rgba(0, 0, 0, 0.25);
+  outline-style: solid;
+  outline-width: 4px;
+}
+
+/* Buttons */
+/* Mobile */
+/* */
+@media (max-width: 700px) {
+  .btn {
+    width: 100%;
+  }
+}

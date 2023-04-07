@@ -1,3 +1,4 @@
+<br />
 <div align="left">
   <a href="https://guylepage.com">
     <picture>
@@ -8,7 +9,7 @@
     </picture>
   </a>
 </div>
-<br/>
+<br />
 
 **GitHub Profile Readme.md Ranking & Statistics**<br/>
 [Ranking & stats JSON data](https://guylepage3.vercel.app/)
