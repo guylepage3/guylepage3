@@ -11,6 +11,14 @@
   --btn-transition: all .2s ease-in-out;  /* Custom GL */
 }
 
+@media (max-width: 700px) {
+  :root {
+    --btn-font-size: 0.85rem;  /* Custom GL */
+    --btn-padding-y: 0.5rem;  /* Custom GL */
+    --btn-padding-x: 0.9rem;  /* Custom GL */
+  }
+}
+
 .btn {
   box-sizing: unset;
   position: relative;
@@ -62,7 +70,4 @@
 /* Mobile */
 /* */
 @media (max-width: 700px) {
-  .btn {
-    width: 100%;
-  }
 }

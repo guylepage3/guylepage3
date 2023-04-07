@@ -3,15 +3,16 @@
 
 /* Layout */
 
-section {
+.container {
   margin: 80px 0 0;
+  padding:2.15rem;
 }
 
 /* Typography */
 
 .h1 {
   font-family: var(--font-abcdiatype-semi-mono-light);
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   font-weight: 500;
   letter-spacing: 0.0125rem;
 }
@@ -192,13 +193,22 @@ footer {
 /* Mobile */
 
 @media (max-width: 700px) {
-  section {
-    margin: 60px 0 0;
+  .container {
+    margin: 70px 0 0;
+    padding:2.15rem 1.5rem;
+  }
+
+  .h1 {
+    font-size: 1.5rem;
+  }
+
+  .p-code {
+    font-size: 0.75rem;
   }
 
   .nav {
     font-size: 0.95rem;
-    padding: 0 1.25rem;
+    padding: 0 1.5rem;
     height: 70px;
   }
 
