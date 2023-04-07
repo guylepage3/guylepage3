@@ -1,5 +1,3 @@
-// Takes devRanking.json and reconfigures the JSON data
-
 async function loadRankStats() {
   const response = await fetch(
     "https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank"
