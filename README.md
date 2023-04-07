@@ -11,7 +11,7 @@
 </div>
 <br />
 
-**GitHub Profile Readme.md Ranking & Statistics**
+**GitHub Profile Readme.md Ranking & Statistics** <br />
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
