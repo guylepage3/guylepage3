@@ -15,20 +15,20 @@
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
-Developer ranking            S+    ███████████████████░░░░░░     76.20 %   (Ranked top 23.80 %)
-Score                   228,594    ███████████████████░░░░░░     76.20 %   (228,594 / 300,000)
+Developer ranking            S+    ███████████████████░░░░░░     75.89 %   (Ranked top 24.11 %)
+Score                   227,666    ███████████████████░░░░░░     75.89 %   (227,666 / 300,000)
 
-All-time stars          615,742    █████████████████████████    100.00 %   (Direct & indirect)
-All-time commits         12,252    █████████████████████████    100.00 %
+All-time stars          615,924    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         11,761    █████████████████████████    100.00 %
 All-time PR's               374    █████████████████████████    100.00 %
 All-time issues           1,578    █████████████████████████    100.00 %
 Contributed to               76    █████████████████████████    100.00 %
 GitHub followers            145    █████████████████████████    100.00 %
 
-Morning           3,771 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
-Late morning      5,546 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
-Afternoon         2,631 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
-Evening             303 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
+Morning           3,620 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
+Late morning      5,324 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
+Afternoon         2,526 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
+Evening             291 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
 ```
 
 <div align="left">
