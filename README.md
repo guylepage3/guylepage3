@@ -281,24 +281,6 @@ Evening             291 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="https://www.behance.net/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/behance/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/behance/000000"  width="18px">
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://dribbble.com/guylepage3" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/dribbble/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/dribbble/000000"  width="18px">
-    </picture>
-  </a>
-  &nbsp;
   <a href="https://bitcoin.clarkmoody.com/dashboard/" target="_blank">
     <picture>
       <source 
