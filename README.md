@@ -272,6 +272,15 @@ Evening             291 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
+  <a href="https://www.npmjs.com/~guylepage3" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/npm/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/npm/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://medium.com/@guylepage3" target="_blank">
     <picture>
       <source 
