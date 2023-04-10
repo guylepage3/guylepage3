@@ -272,6 +272,15 @@ Evening             291 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
+  <a href="https://stackoverflow.com/users/1314487/guy-lepage" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/stackoverflow/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/stackoverflow/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://www.npmjs.com/~guylepage3" target="_blank">
     <picture>
       <source 
