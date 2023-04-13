@@ -15,20 +15,20 @@
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
-Developer ranking            S+    ███████████████████░░░░░░     75.98 %   (Ranked top 24.02 %)
-Score                   227,939    ███████████████████░░░░░░     75.98 %   (227,939 / 300,000)
+Developer ranking            S+    ███████████████████░░░░░░     76.05 %   (Ranked top 23.95 %)
+Score                   228,149    ███████████████████░░░░░░     76.05 %   (228,149 / 300,000)
 
-All-time stars          616,360    █████████████████████████    100.00 %   (Direct & indirect)
-All-time commits         11,826    █████████████████████████    100.00 %
+All-time stars          616,669    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         11,884    █████████████████████████    100.00 %
 All-time PR's               374    █████████████████████████    100.00 %
 All-time issues           1,580    █████████████████████████    100.00 %
 Contributed to               76    █████████████████████████    100.00 %
-GitHub followers            147    ░░░░░░░░░░░░░░░░░░░░░░░░░      0.08 %   (147 / 180,000)
+GitHub followers            148    ░░░░░░░░░░░░░░░░░░░░░░░░░      0.08 %   (148 / 180,000)
 
-Morning           3,640 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
-Late morning      5,353 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
-Afternoon         2,540 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
-Evening             293 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
+Morning           3,658 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
+Late morning      5,379 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
+Afternoon         2,552 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
+Evening             294 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
 ```
 
 <div align="left">
@@ -322,4 +322,4 @@ Evening             293 commits    █░░░░░░░░░░░░░░
 ```text
 Status:  ████████████████████░░░░░  80% complete
 ```
-[Critical Path](https://github.com/guylepage3/guylepage3/issues/1)
+[Profile Readme.md Critical Path](https://github.com/guylepage3/guylepage3/issues/1)
