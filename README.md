@@ -4,8 +4,10 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/227265277-3e002be4-faef-4f63-8508-c4f67daccee4.png" width="150" alt="Guy Lepage Logo [guylepage-logo-rev-1024x1024]">
-      <img src="https://user-images.githubusercontent.com/1711854/228915760-dc8b1adc-bd36-4863-8acc-56db046e73b1.png" width="150" alt="Guy Lepage Logo [guylepage-logo-1024x1024]">
+        srcset="https://user-images.githubusercontent.com/1711854/227265277-3e002be4-faef-4f63-8508-c4f67daccee4.png" width="150" 
+        alt="Guy Lepage Logo [guylepage-logo-rev-1024x1024]">
+      <img src="https://user-images.githubusercontent.com/1711854/228915760-dc8b1adc-bd36-4863-8acc-56db046e73b1.png" width="150" 
+      alt="Guy Lepage Logo [guylepage-logo-1024x1024]">
     </picture>
   </a>
 </div>
@@ -15,24 +17,25 @@
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
-Developer ranking            S+    ███████████████████░░░░░░     76.17 %   (Ranked top 23.83 %)
-Score (Points)          228,499    ███████████████████░░░░░░     76.17 %   (300,000)
+Developer ranking            S+    ███████████████████░░░░░░     76.20 %   (Ranked top 23.80 %)
+Score (Points)          228,586    ███████████████████░░░░░░     76.20 %   (228,586 / 300,000)
 
-All-time stars          617,514    █████████████████████████    100.00 %   (Direct & indirect)
-All-time commits         11,929    █████████████████████████    100.00 %
+All-time stars          617,758    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         11,933    █████████████████████████    100.00 %
 All-time PR's               374    █████████████████████████    100.00 %
-All-time issues           1,580    █████████████████████████    100.00 %
+All-time issues           1,581    █████████████████████████    100.00 %
 Contributed to               77    █████████████████████████    100.00 %
-GitHub followers            147    ░░░░░░░░░░░░░░░░░░░░░░░░░      0.08 %   (147 / 180,000)
+GitHub followers            148    ░░░░░░░░░░░░░░░░░░░░░░░░░      0.08 %   (148 / 180,000)
 
-Morning           3,672 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
-Late morning      5,400 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
-Afternoon         2,562 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
+Morning           3,673 commits    ████████░░░░░░░░░░░░░░░░░     30.78 %   (4am – 9am)
+Late morning      5,402 commits    ███████████░░░░░░░░░░░░░░     45.28 %   (9am – 2pm)
+Afternoon         2,563 commits    █████░░░░░░░░░░░░░░░░░░░░     21.48 %   (2pm – 7pm)
 Evening             295 commits    █░░░░░░░░░░░░░░░░░░░░░░░░      2.47 %   (7pm – 4am)
 ```
 
 <div align="left">
-  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" target="_blank">More about me...</a>
+  <a href="https://github.com/guylepage3/guylepage3/blob/main/info.json" 
+  target="_blank">More about me...</a>
 </div>
 <br/>
 <div align="left">
@@ -135,7 +138,8 @@ Evening             295 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" 
+    target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
