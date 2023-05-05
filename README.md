@@ -17,11 +17,11 @@
 [JSON explorer](https://guylepage3.vercel.app/)
 
 ```text
-Developer ranking            S+    ███████████████████░░░░░░     76.61 %   (Ranked top 23.39 %)
-Score (Points)          229,835    ███████████████████░░░░░░     76.61 %   (229,835 / 300,000)
+Developer ranking            S+    ███████████████████░░░░░░     76.65 %   (Ranked top 23.35 %)
+Score (Points)          229,944    ███████████████████░░░░░░     76.65 %   (229,944 / 300,000)
 
-All-time stars          621,303    █████████████████████████    100.00 %   (Direct & indirect)
-All-time commits         12,026    █████████████████████████    100.00 %
+All-time stars          621,659    █████████████████████████    100.00 %   (Direct & indirect)
+All-time commits         12,027    █████████████████████████    100.00 %
 All-time PR's               374    █████████████████████████    100.00 %
 All-time issues           1,581    █████████████████████████    100.00 %
 Contributed to               77    █████████████████████████    100.00 %
