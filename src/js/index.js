@@ -46,8 +46,8 @@ async function loadRankStats() {
   obj.issues = data.userStats.issues.toLocaleString();
   obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
-  obj.days_left = (365-Math.round(daysLeft)) + ":" + Math.round(daysLeft);
-  obj.years_progress = (365/Math.round(daysLeft)) + " %";
+  obj.days_left = (365-(Math.round(daysLeft))) + ":" + Math.round(daysLeft);
+  obj.years_progress = (365/(Math.round(daysLeft))) + " %";
   obj.fetch_date_time = fetchLastFetch;
   obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
   obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
