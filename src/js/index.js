@@ -30,10 +30,10 @@ async function loadRankStats() {
   const endYear = new Date(1995, 11, 31, 23, 59, 59, 999); // Set day and month
     endYear.setFullYear(today.getFullYear()); // Set year to this year
   const msPerDay = 24 * 60 * 60 * 1000; // Number of milliseconds per day
-    let daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
-    daysLeft = Math.round(daysLeft); //returns days left in the year
+    let dayCount = (today.getTime()) - endYear.getTime() / msPerDay;
+    dayCount = Math.round(dayCount); // returns days
   
-  const calcPercentage = ((Math.round(daysLeft)/365)*100).toFixed(2);
+  const calcPercent = ((Math.round(dayCount)/365)*100).toFixed(2);
 
   var obj = {};
   obj.rank = data.level;
@@ -48,8 +48,8 @@ async function loadRankStats() {
   obj.issues = data.userStats.issues.toLocaleString();
   obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
-  obj.days_left = (365-(Math.round(daysLeft))) + ":" + Math.round(daysLeft);
-  obj.years_progress = calcPercentage + " %";
+  obj.days_left = Math.round(dayCount) + ":" + Math.round(dayCount) - 365;
+  obj.years_progress = calcPercent + " %";
   obj.fetch_date_time = fetchLastFetch;
   obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
   obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
