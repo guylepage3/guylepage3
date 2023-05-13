@@ -39,7 +39,7 @@ async function loadRankStats() {
   obj.top_rank_percent = rankDescriptor + " %";
   obj.score = parseInt(data.score, 10).toLocaleString();
   obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
-  obj.days_left = Math.round(daysLeft) + " / 365";
+  obj.days_left = (Math.round(daysLeft)-365) + ":" + Math.round(daysLeft);
   obj.score_percent = dataScoreRank + " %";
   obj.stars = starTotal.toLocaleString();
   obj.commits = data.userStats.commits.toLocaleString();
