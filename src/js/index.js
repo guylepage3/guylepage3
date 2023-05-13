@@ -33,7 +33,7 @@ async function loadRankStats() {
     let dayCount = (today.getTime() - endYear.getTime()) / msPerDay;
     dayCount = Math.round(dayCount); // returns days
   
-  const calcPercent = ((Math.round(dayCount)/365)*100).toFixed(2);
+  const calcPercent = (((365-(Math.round(dayCount)))/365)*100).toFixed(2);
 
   var obj = {};
   obj.rank = data.level;
@@ -48,7 +48,7 @@ async function loadRankStats() {
   obj.issues = data.userStats.issues.toLocaleString();
   obj.contributed_to = data.userStats.contributedTo.toLocaleString();
   obj.followers = data.userStats.followers.toLocaleString();
-  obj.days_left = Math.round(dayCount) + ":" + (Math.round(dayCount)-365);
+  obj.days_left = (365-(Math.round(dayCount))) + ":" + Math.round(dayCount);
   obj.years_progress = calcPercent + " %";
   obj.fetch_date_time = fetchLastFetch;
   obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
