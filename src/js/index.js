@@ -26,12 +26,20 @@ async function loadRankStats() {
   const lastFetch = data.userStats.lastFetch 
   const fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
 
+  const today = new Date();
+  const endYear = new Date(1995, 11, 31, 23, 59, 59, 999); // Set day and month
+    endYear.setFullYear(today.getFullYear()); // Set year to this year
+  const msPerDay = 24 * 60 * 60 * 1000; // Number of milliseconds per day
+    let daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
+    daysLeft = Math.round(daysLeft); //returns days left in the year
+
   var obj = {};
   obj.rank = data.level;
   obj.rank_percent = dataScoreRank + " %";
   obj.top_rank_percent = rankDescriptor + " %";
   obj.score = parseInt(data.score, 10).toLocaleString();
   obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
+  obj.daysLeft = parseInt(data.score, 10).toLocaleString() + " / 365";
   obj.score_percent = dataScoreRank + " %";
   obj.stars = starTotal.toLocaleString();
   obj.commits = data.userStats.commits.toLocaleString();
