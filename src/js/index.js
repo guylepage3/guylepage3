@@ -32,7 +32,7 @@ async function loadRankStats() {
   const msPerDay = 24 * 60 * 60 * 1000; // Number of milliseconds per day
   let daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
   daysLeft = Math.round(daysLeft); //returns days left in the year
-  const dayCount = Math.round(daysLeft) - 365;
+  const dayCount = (365 - (Math.round(daysLeft)));
   
   const calcPercent = ((dayCount/365)*100).toFixed(2);
 
