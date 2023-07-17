@@ -139,18 +139,18 @@ footer {
   display: flex;
   padding: 3.125rem 2.5rem;
   margin: 0 0 2rem;
-  background-color: rgb(var(--dark-dimmed-rgb));
+  background-color: rgb(var(--color-pre-foreground));
   border: 1.5px solid rgb(var(--dark-dimmed-rgb));
   border-radius: var(--border-radius);
 }
 
 .pre-code-nums {
-  color: rgba(51, 57, 64, 1);
+  color: rgb(var(--color-pre-text-secondary));
   display: flex;
   flex-direction: column;
   padding: 0 1.5rem 0 0;
   line-height: 165%;
-  border-right: 1.5px solid rgb(var(--dark-highlight-rgb));
+  border-right: 1.5px solid rgb(var(--color-pre-divide));
 }
 
 .pre-code {
