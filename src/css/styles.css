@@ -121,7 +121,7 @@
 footer {
   font-family: var(--font-abcdiatype-semi-mono);
   font-size: 0.8rem;
-  color: rgb(var(--light-rgb));
+  color: rgb(var(--color-pre-text-secondary));
 }
 
 /* Styles */
@@ -185,7 +185,7 @@ footer {
   }
 
   .scheme-dark {
-    filter: invert(47%) sepia(4%) saturate(1063%) hue-rotate(176deg) brightness(97%) contrast(89%);
+    filter: invert(29%) sepia(6%) saturate(602%) hue-rotate(177deg) brightness(94%) contrast(92%);
   }
 }
 
