@@ -10,7 +10,7 @@
   --font-abcdiatype-semi-mono-light: 'abcdiatype-semi-mono-light', 'Courier New', monospace;
   --font-abcdiatype-semi-mono-var: 'abcdiatype-semi-mono-var', 'Courier New', monospace;
   --background-start-rgb: 2, 4, 9;
-  --background-end-rgb: 14, 17, 22;
+  --background-end-rgb: 7, 9, 12;
   --tile-start-rgb: 239, 245, 249;
   --tile-end-rgb: 228, 232, 233;
   --tile-border: conic-gradient(#00000080,
@@ -30,7 +30,7 @@
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 2, 4, 9;
-    --background-end-rgb: 14, 17, 22;
+    --background-end-rgb:7, 9, 12;
     --white-rgb: 255, 255, 255;
     --black-rgb: 0, 0, 0;
     --light-rgb: 111, 118, 128;
