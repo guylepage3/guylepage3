@@ -20,7 +20,7 @@
 .p-mono {
   font-size: 0.8rem;
   font-family: var(--font-abcdiatype-mono);
-  color: rgb(var(--color-pre-text-secondaryb));
+  color: rgb(var(--color-pre-text-secondary));
 }
 
 .tag-mono {
