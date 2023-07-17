@@ -23,7 +23,7 @@
   --color-pre-background: 7, 9, 12;
   --color-pre-foreground: 22,	25,	30;
   --color-pre-divide: 50, 53, 58;
-  --color-pre-text-secondary: 72,	76,	82;
+  --color-pre-text-dimmed: 94,	98,	105;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -50,7 +50,7 @@
     --color-pre-background: 7, 9, 12;
     --color-pre-foreground: 22,	25,	30;
     --color-pre-divide: 50, 53, 58;
-    --color-pre-text-secondary: 72,	76,	82;
+    --color-pre-text-dimmed: 94,	98,	105;
   }
 }
 

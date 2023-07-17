@@ -20,7 +20,7 @@
 .p-mono {
   font-size: 0.8rem;
   font-family: var(--font-abcdiatype-mono);
-  color: rgb(var(--color-pre-text-secondary));
+  color: rgb(var(--color-pre-text-dimmed));
 }
 
 .tag-mono {
@@ -84,7 +84,7 @@
 .linkDark,
 .linkDark:focus,
 .linkDark:active {
-  color: rgb(var(--color-pre-text-secondary));
+  color: rgb(var(--color-pre-text-dimmed));
   padding: 0 2px;
 }
 
@@ -113,7 +113,7 @@
 footer {
   font-family: var(--font-abcdiatype-semi-mono);
   font-size: 0.8rem;
-  color: rgb(var(--color-pre-text-secondary));
+  color: rgb(var(--color-pre-text-dimmed));
 }
 
 /* Styles */
@@ -136,7 +136,7 @@ footer {
 }
 
 .pre-code-nums {
-  color: rgb(var(--color-pre-text-secondary));
+  color: rgb(var(--color-pre-text-dimmed));
   display: flex;
   flex-direction: column;
   padding: 0 1.5rem 0 0;
