@@ -78,7 +78,7 @@
   padding: 0 4px;
   font-family: var(--font-abcdiatype-mono);
   color: rgb(var(--black-rgb));
-  background-color: rgb(var(--light-rgb));
+  background-color: rgb(var(--color-pre-foreground));
   border-radius: 1.5px;
 }
 
@@ -149,7 +149,6 @@ footer {
   flex-direction: column;
   padding: 0 1.5rem 0 0;
   line-height: 165%;
-  border-right: 1.5px solid rgb(var(--color-pre-divide));
 }
 
 .pre-code {
