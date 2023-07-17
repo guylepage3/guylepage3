@@ -40,10 +40,10 @@
 
 .btn-dark {
   color: rgb(var(--light-rgb));
-  background-color: rgb(var(--dark-dimmed-rgb));
+  background-color: rgb(var(--color-pre-foreground));
   border-width: 1.5px;
   border-style: solid;
-  border-color: rgb(var(--dark-dimmed-rgb));
+  border-color: rgb(var(--color-pre-foreground));
   border-radius: var(--btn-border-radius);
 }
 
