@@ -63,7 +63,7 @@
   text-decoration: underline;
   text-underline-offset: 3px;
   padding: 0 2px;
-  transition: all .2s ease-in-out;
+  transition: all .05s ease;
 }
 
 .linkNav {
@@ -146,7 +146,7 @@ footer {
 .pre-code {
   display: flex;
   flex-direction: column;
-  padding: 0 2rem;
+  padding: 0 30px;
   overflow-x: scroll;
 }
 

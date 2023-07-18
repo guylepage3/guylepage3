@@ -8,7 +8,7 @@
   --btn-text-transform: unset;
   --btn-padding-y: 0.7rem;
   --btn-padding-x: 1.15rem;
-  --btn-border-radius: 4px;
+  --btn-border-radius: 6px;
   --btn-transition: all .2s ease-in-out;
 }
 
@@ -23,7 +23,8 @@
 .btn {
   box-sizing: unset;
   position: relative;
-  display: inline-flex;
+  display: flex;
+  align-items: center;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
