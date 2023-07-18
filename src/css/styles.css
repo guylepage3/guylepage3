@@ -43,17 +43,28 @@
 .nav {
   display: flex;
   align-items: center;
+  justify-content:space-between;
+  position: absolute;
   width: 100%;
-  height: 80px;
+  height: 68px;
   padding: 0 2.15rem;
   font-size: 1rem;
-  position: absolute;
+  border-bottom:1px solid;
+  border-color: rgb(var(--color-pre-divide));
+  background-color: rgb(var(--color-pre-background));
   z-index: 100;
+  overflow: hidden;
 }
 
 .push {
   margin-left: auto;
   margin-right: 1rem;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 /* Links */
