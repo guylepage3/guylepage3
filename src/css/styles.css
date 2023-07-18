@@ -51,7 +51,8 @@
   font-size: 1rem;
   border-bottom:1px solid;
   border-color: rgb(var(--color-pre-divide));
-  background-color: rgb(var(--color-pre-background));
+  /* background-color: rgb(var(--color-pre-background)); */
+  backdrop-filter: blur(20px);
   z-index: 100;
   overflow: hidden;
 }
