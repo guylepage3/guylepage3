@@ -37,25 +37,25 @@ async function loadRankStats() {
   const calcPercent = ((dayCount/365)*100).toFixed(2);
 
   var obj = {};
-  obj.rank = data.level;
-  obj.rank_percent = dataScoreRank + " %";
-  obj.top_rank_percent = rankDescriptor + " %";
-  obj.score = parseInt(data.score, 10).toLocaleString();
-  obj.score_percent = dataScoreRank + " %";
-  obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
-  obj.stars = starTotal.toLocaleString();
-  obj.commits = data.userStats.commits.toLocaleString();
-  obj.pull_requests = data.userStats.pullRequests.toLocaleString();
-  obj.issues = data.userStats.issues.toLocaleString();
-  obj.contributed_to = data.userStats.contributedTo.toLocaleString();
-  obj.followers = data.userStats.followers.toLocaleString();
-  obj.fetch_date_time = fetchLastFetch;
-  obj.days_left = dayCount + ":" + Math.round(daysLeft);
-  obj.years_progress = calcPercent + " %";
-  obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
-  obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
-  obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();
-  obj.evening_commits = parseInt(getEveningCommits, 10).toLocaleString();
+    obj.rank = data.level;
+    obj.rank_percent = dataScoreRank + " %";
+    obj.top_rank_percent = rankDescriptor + " %";
+    obj.score = parseInt(data.score, 10).toLocaleString();
+    obj.score_percent = dataScoreRank + " %";
+    obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
+    obj.stars = starTotal.toLocaleString();
+    obj.commits = data.userStats.commits.toLocaleString();
+    obj.pull_requests = data.userStats.pullRequests.toLocaleString();
+    obj.issues = data.userStats.issues.toLocaleString();
+    obj.contributed_to = data.userStats.contributedTo.toLocaleString();
+    obj.followers = data.userStats.followers.toLocaleString();
+    obj.fetch_date_time = fetchLastFetch;
+    obj.days_left = dayCount + ":" + Math.round(daysLeft);
+    obj.years_progress = calcPercent + " %";
+    obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
+    obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
+    obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();
+    obj.evening_commits = parseInt(getEveningCommits, 10).toLocaleString();
 
   document.getElementById("json").innerHTML = JSON.stringify(obj, undefined, 2);
 }
