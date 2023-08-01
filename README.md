@@ -328,4 +328,4 @@ Evening             324 commits    █░░░░░░░░░░░░░░
 ```text
 Status:  ████████████████████░░░░░  80% complete
 ```
-[G3-Stats GitHub Profile Readme (Critical Path)](https://github.com/guylepage3/guylepage3/issues/1)
+[GitHub Stats critical path](https://github.com/guylepage3/guylepage3/issues/1)
