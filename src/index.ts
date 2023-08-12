@@ -25,9 +25,8 @@ async function loadRankStats() {
     data.userStats.commits
   ).toFixed(0);
   
-  let dataScore = data.score
-  let score = 300000
-  let dataScoreRank = dataScore/score;
+  let dataScore = (data.score/300000)
+  let dataScoreRank = (dataScore*100);
 
   const rankDescriptor = (100 - dataScoreRank).toFixed(2);
   
@@ -74,10 +73,10 @@ async function loadRankStats() {
 
   const obj: ghRank = {};
     obj.rank = data.level;
-    obj.rank_percent = dataScoreRank + " %";
+    obj.rank_percent = dataScoreRank.toFixed(2) + " %";
     obj.top_rank_percent = rankDescriptor + " %";
     obj.score = parseInt(data.score, 10).toLocaleString();
-    obj.score_percent = dataScoreRank + " %";
+    obj.score_percent = dataScoreRank.toFixed(2) + " %";
     obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
     obj.stars = starTotal.toLocaleString();
     obj.commits = data.userStats.commits.toLocaleString();
