@@ -36,7 +36,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 function loadRankStats() {
     return __awaiter(this, void 0, void 0, function () {
-        var response, data, starTotal, getMorningCommits, getLateMorningCommits, getAfternoonCommits, getEveningCommits, dataScore, score, dataScoreRank, rankDescriptor, lastFetch, fetchLastFetch, today, endYear, msPerDay, daysLeft, dayCount, calcPercent, obj;
+        var response, data, starTotal, getMorningCommits, getLateMorningCommits, getAfternoonCommits, getEveningCommits, dataScore, dataScoreRank, rankDescriptor, lastFetch, fetchLastFetch, today, endYear, msPerDay, daysLeft, dayCount, calcPercent, obj;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, fetch("https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank")];
@@ -54,9 +54,8 @@ function loadRankStats() {
                         data.userStats.commits).toFixed(0);
                     getEveningCommits = ((2.4741081703107 / 100) *
                         data.userStats.commits).toFixed(0);
-                    dataScore = data.score;
-                    score = 300000;
-                    dataScoreRank = dataScore / score;
+                    dataScore = (data.score / 300000);
+                    dataScoreRank = (dataScore * 100);
                     rankDescriptor = (100 - dataScoreRank).toFixed(2);
                     lastFetch = data.userStats.lastFetch;
                     fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
@@ -70,10 +69,10 @@ function loadRankStats() {
                     calcPercent = ((dayCount / 365) * 100).toFixed(2);
                     obj = {};
                     obj.rank = data.level;
-                    obj.rank_percent = dataScoreRank + " %";
+                    obj.rank_percent = dataScoreRank.toFixed(2) + " %";
                     obj.top_rank_percent = rankDescriptor + " %";
                     obj.score = parseInt(data.score, 10).toLocaleString();
-                    obj.score_percent = dataScoreRank + " %";
+                    obj.score_percent = dataScoreRank.toFixed(2) + " %";
                     obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
                     obj.stars = starTotal.toLocaleString();
                     obj.commits = data.userStats.commits.toLocaleString();
