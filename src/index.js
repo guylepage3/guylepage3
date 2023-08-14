@@ -72,8 +72,6 @@ function loadRankStats() {
                     obj.rank = data.level;
                     obj.rank_percent = dataScoreRank.toFixed(2) + " %";
                     obj.top_rank_percent = rankDescriptor + " %";
-                    obj.score = parseInt(data.score, 10).toLocaleString();
-                    obj.score_percent = dataScoreRank.toFixed(2) + " %";
                     obj.score_calc = parseInt(data.score, 10).toLocaleString() + " / 300,000";
                     obj.stars = starTotal.toLocaleString();
                     obj.commits = data.userStats.commits.toLocaleString();
