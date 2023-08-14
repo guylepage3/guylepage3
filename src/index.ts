@@ -45,7 +45,9 @@ async function loadRankStats() {
   
   const dayCount = (365 - (Math.round(daysLeft)));
   
-  const calcPercent = ((dayCount/365)*100).toFixed(2);
+  const calcPercent = ((dayCount/365)*100);
+
+  const calcPercentGraph = ((calcPercent*0.01)*25);
 
   type ghRank = {
     id?: number;
@@ -65,6 +67,7 @@ async function loadRankStats() {
     fetch_date_time?: number;
     days_left?: string;
     years_progress?: string;
+    years_progress_graph?: string;
     morning_commits?: string;
     lateMorning_commits?: string;
     afternoon_commits?: string;
@@ -86,7 +89,8 @@ async function loadRankStats() {
     obj.followers = data.userStats.followers.toLocaleString();
     obj.fetch_date_time = fetchLastFetch;
     obj.days_left = dayCount + ":" + Math.round(daysLeft);
-    obj.years_progress = calcPercent + " %";
+    obj.years_progress = calcPercent.toFixed(2) + " %";
+    obj.years_progress_graph = calcPercentGraph.toFixed(0) + " (25)";
     obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
     obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
     obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();
