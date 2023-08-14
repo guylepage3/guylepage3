@@ -36,7 +36,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 function loadRankStats() {
     return __awaiter(this, void 0, void 0, function () {
-        var response, data, starTotal, getMorningCommits, getLateMorningCommits, getAfternoonCommits, getEveningCommits, dataScore, dataScoreRank, rankDescriptor, lastFetch, fetchLastFetch, today, endYear, msPerDay, daysLeft, dayCount, calcPercent, obj;
+        var response, data, starTotal, getMorningCommits, getLateMorningCommits, getAfternoonCommits, getEveningCommits, dataScore, dataScoreRank, rankDescriptor, lastFetch, fetchLastFetch, today, endYear, msPerDay, daysLeft, dayCount, calcPercent, calcPercentGraph, obj;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, fetch("https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank")];
@@ -66,7 +66,8 @@ function loadRankStats() {
                     daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
                     daysLeft = Math.round(daysLeft); //returns days left in the year
                     dayCount = (365 - (Math.round(daysLeft)));
-                    calcPercent = ((dayCount / 365) * 100).toFixed(2);
+                    calcPercent = ((dayCount / 365) * 100);
+                    calcPercentGraph = ((calcPercent * 0.01) * 25);
                     obj = {};
                     obj.rank = data.level;
                     obj.rank_percent = dataScoreRank.toFixed(2) + " %";
@@ -82,7 +83,8 @@ function loadRankStats() {
                     obj.followers = data.userStats.followers.toLocaleString();
                     obj.fetch_date_time = fetchLastFetch;
                     obj.days_left = dayCount + ":" + Math.round(daysLeft);
-                    obj.years_progress = calcPercent + " %";
+                    obj.years_progress = calcPercent.toFixed(2) + " %";
+                    obj.years_progress_graph = calcPercentGraph.toFixed(0) + " (25)";
                     obj.morning_commits = parseInt(getMorningCommits, 10).toLocaleString();
                     obj.lateMorning_commits = parseInt(getLateMorningCommits, 10).toLocaleString();
                     obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();

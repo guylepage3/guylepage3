@@ -49,7 +49,7 @@
   height: 68px;
   padding: 0 2.15rem;
   font-size: 1rem;
-  border-bottom:1px solid;
+  border-bottom: 1px solid;
   border-color: rgb(var(--color-pre-divide));
   /* background-color: rgb(var(--color-pre-background)); */
   -webkit-backdrop-filter: blur(20px);
@@ -127,6 +127,9 @@ footer {
   font-family: var(--font-abcdiatype-semi-mono);
   font-size: 0.8rem;
   color: rgb(var(--color-pre-text-dimmed));
+  padding:2.15rem;
+  border-top: 1px solid;
+  border-color: rgb(var(--color-pre-divide));
 }
 
 /* Styles */
