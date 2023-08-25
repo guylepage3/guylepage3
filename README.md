@@ -140,15 +140,6 @@ Evening             326 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/nodedotjs/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/nodedotjs/000000"  width="18px">
-    </picture>
-  </a>
-  &nbsp;
   <a href="https://www.supabase.com/" target="_blank">
     <picture>
       <source 
