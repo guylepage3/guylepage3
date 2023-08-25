@@ -131,12 +131,39 @@ Evening             326 commits    █░░░░░░░░░░░░░░
     </picture>
   </a>
   &nbsp;
+   <a href="https://www.postgresql.org/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/postgresql/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/postgresql/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;
   <a href="https://nodejs.org/" target="_blank">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://ico.vercel.app/nodedotjs/ffffff"  width="18px">
       <img src="https://ico.vercel.app/nodedotjs/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.supabase.com/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/supabase/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/supabase/000000"  width="18px">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://planetscale.com/" target="_blank">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://ico.vercel.app/planetscale/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/planetscale/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
