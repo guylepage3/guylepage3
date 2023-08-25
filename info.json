@@ -8,33 +8,45 @@
     "California",
     "British Columbia"
   ],
-  "originally_from": "Vancouver, Canada",
+  "birthplace": "Lethbridge, Canada",
+  "formative_years": "Vancouver Island, Canada",
+  "childhood": "Regina, Canada",
+  "early_career": "Vancouver, Canada",
+  "mid_career": "New York, NY",
   "education": [
     "Self-taught Designer",
     "Self-taught Developer",
-    "Self-taught MBA",
+    "Self-taught Entrepreneur",
     "Fine Arts dropout"
   ],
-  "interests": [
-    "Advertising",
-    "Alternative Asset Management",
-    "Artificial Intelligence",
-    "Cryptography",
+  "general_interests": [
+    "Business",
     "Design",
-    "Investing",
+    "Development",
     "Marketing",
     "Product Design",
+    "Advertising",
+    "Cryptography",
+    "Finance",
     "Venture Capital",
-    "Web3"
+    "Web3",
+    "Investing",
+    "Alternative Asset Management"
   ],
   "technical_background": [
+    "Front-end",
     "Web3",
     "Responsive Ratio Type Scaling",
     "Design Systems",
     "Identity",
-    "Web3 Systems"
+    "Full-stack"
   ],
-  "currently_learning": "GPT-4",
+  "currently_learning": [
+    "Object-relational Databases",
+    "Coffee Roasting",
+    "Architecture Design",
+    "Fabricating"
+  ],
   "fun_facts": [
     "Former sponsored Ironman triathlete",
     "Former punk rocker",
@@ -42,11 +54,11 @@
   ],
   "hobbies": [
     "Skiing",
-    "Architecture",
+    "Architecture Design",
     "Drafting",
     "Running",
     "Traveling",
-    "Swimming",
-    "Cycling"
+    "Cycling",
+    "Swimming"
   ]
 }
