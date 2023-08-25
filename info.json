@@ -1,18 +1,20 @@
 {
   "name": "Guy Leonard Lepage III",
-  "current_location": "Wyoming",
-  "secondary_locations": [
-    "Florida",
-    "Vermont",
-    "New York",
-    "California",
-    "British Columbia"
-  ],
   "birthplace": "Lethbridge, Canada",
   "formative_years": "Vancouver Island, Canada",
   "childhood": "Regina, Canada",
   "early_career": "Vancouver, Canada",
   "mid_career": "New York, NY",
+  "pandemic_years":  "Miami, FL",
+  "locations": [
+    "Florida",
+    "Texas",
+    "Wyoming",
+    "Vermont",
+    "New York",
+    "California",
+    "British Columbia"
+  ],
   "education": [
     "High School: Archbishop M.C. O'Neill Catholic High School",
     "College: North Island College, Fine Arts (Dropout)",
