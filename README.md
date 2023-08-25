@@ -291,8 +291,8 @@ Evening             326 commits    █░░░░░░░░░░░░░░
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://ico.vercel.app/twitter/ffffff"  width="18px">
-      <img src="https://ico.vercel.app/twitter/000000"  width="18px">
+        srcset="https://ico.vercel.app/x/ffffff"  width="18px">
+      <img src="https://ico.vercel.app/x/000000"  width="18px">
     </picture>
   </a>
   &nbsp;
