@@ -166,16 +166,6 @@ footer {
   overflow-x: scroll;
 }
 
-@keyframes rotate {
-  from {
-    transform: rotate(360deg);
-  }
-
-  to {
-    transform: rotate(0deg);
-  }
-}
-
 /* Color Scheme — Light */
 
 @media (prefers-color-scheme: light) {
