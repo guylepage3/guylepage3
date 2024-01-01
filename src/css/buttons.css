@@ -5,7 +5,6 @@
   --btn-font-size: 0.9rem;
   --btn-line-height: 1rem;
   --btn-letter-spacing: unset;
-  --btn-text-transform: unset;
   --btn-padding-y: 0.7rem;
   --btn-padding-x: 1.15rem;
   --btn-border-radius: 5px;
@@ -32,7 +31,6 @@
   user-select: none;
   font-size: var(--btn-font-size);
   letter-spacing: var(--btn-letter-spacing);
-  text-transform: var(--btn-text-transform);
   padding: var(--btn-padding-y) var(--btn-padding-x);
 }
 

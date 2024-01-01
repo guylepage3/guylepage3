@@ -1,4 +1,3 @@
-
   const response = await fetch(
     "https://awesome-github-stats.azurewebsites.net/user-stats/guylepage3/rank"
   );
@@ -82,8 +81,6 @@
     obj.afternoon_commits = parseInt(getAfternoonCommits, 10).toLocaleString();
     obj.evening_commits = parseInt(getEveningCommits, 10).toLocaleString();
   document.getElementById("json")!.innerHTML = JSON.stringify(obj, undefined, 2);
-
-
 
 loadRankStats();
 export { };
