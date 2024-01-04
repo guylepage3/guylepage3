@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": [ "es2015" ],
+    "rootDir": "src/"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
