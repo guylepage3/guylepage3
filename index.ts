@@ -31,7 +31,7 @@ async function loadRankStats() {
   const rankDescriptor = (100 - dataScoreRank).toFixed(2);
   
   const lastFetch = data.userStats.lastFetch 
-  const fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
+  const fetchLastFetch = lastFetch.replace("T", " ").slice(0, -23);
 
   const today = new Date();
   const endYear = new Date(1995, 11, 31, 23, 59, 59, 999); // Sets day and month
