@@ -26,7 +26,7 @@
   const lastFetch = data.userStats.lastFetch 
   const fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
   const today = new Date();
-  const endYear = new Date(1995, 11, 31, 23, 59, 59, 999); // Set day and month
+  const endYear = new Date(2024, 12, 31, 23, 59, 59, 999); // Set day and month
   endYear.setFullYear(today.getFullYear()); // Set year to this year
   
   const msPerDay = 24 * 60 * 60 * 1000; // Number of milliseconds per day
