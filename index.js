@@ -58,7 +58,7 @@ function loadRankStats() {
                     dataScoreRank = (dataScore * 100);
                     rankDescriptor = (100 - dataScoreRank).toFixed(2);
                     lastFetch = data.userStats.lastFetch;
-                    fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
+                    fetchLastFetch = lastFetch.replace("T", " ").slice(0, -23);
                     today = new Date();
                     endYear = new Date(1995, 11, 31, 23, 59, 59, 999);
                     endYear.setFullYear(today.getFullYear()); // Sets year to this year
