@@ -34,8 +34,8 @@ async function loadRankStats() {
   const fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
 
   const today = new Date();
-  const endYear = new Date(1995, 12, 31, 23, 59, 59, 999); // Set day and month
-  endYear.setFullYear(today.getFullYear()); // Set year to this year
+  const endYear = new Date(1995, 11, 31, 23, 59, 59, 999); // Sets day and month
+  endYear.setFullYear(today.getFullYear()); // Sets year to this year
   const msPerDay = 24 * 60 * 60 * 1000; // Number of milliseconds per day
   let daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
   daysLeft = Math.round(daysLeft); //returns days left in the year

@@ -60,8 +60,8 @@ function loadRankStats() {
                     lastFetch = data.userStats.lastFetch;
                     fetchLastFetch = lastFetch.replace("T", " ").slice(0, -14);
                     today = new Date();
-                    endYear = new Date(1995, 12, 31, 23, 59, 59, 999);
-                    endYear.setFullYear(today.getFullYear()); // Set year to this year
+                    endYear = new Date(1995, 11, 31, 23, 59, 59, 999);
+                    endYear.setFullYear(today.getFullYear()); // Sets year to this year
                     msPerDay = 24 * 60 * 60 * 1000;
                     daysLeft = (endYear.getTime() - today.getTime()) / msPerDay;
                     daysLeft = Math.round(daysLeft); //returns days left in the year
