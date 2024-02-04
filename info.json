@@ -7,13 +7,12 @@
   "mid_career": "New York, NY",
   "pandemic_years":  "Miami, FL",
   "locations": [
-    "Florida",
     "Texas",
+    "Miami",
+    "Colorado",
     "Wyoming",
     "Vermont",
-    "New York",
-    "California",
-    "British Columbia"
+    "California"
   ],
   "education": [
     "High School: Archbishop M.C. O'Neill Catholic High School",
@@ -22,7 +21,7 @@
     "Self-taught, Designer",
     "Self-taught, Developer"
   ],
-  "awards": [
+  "recognition": [
     "Recognition for Best Collateral: Victoria Print Awards (Victoria, Canada)",
     "Interactive Best Website: LOTUS Awards (Vancouver, Canada)",
     "Best Brand Development: New York Festivals International Advertising Awards (New York, NY)",
@@ -31,17 +30,16 @@
   ],
   "general_interests": [
     "Business",
-    "Design",
-    "Software development",
     "Marketing",
-    "Product design",
     "Advertising",
-    "Cryptography",
+    "Design",
+    "Development",
     "Finance",
     "Venture capital",
-    "Web3",
     "Investing",
-    "Alternative asset management"
+    "Alternative asset management",
+    "Web3",
+    "Cryptography"
   ],
   "technical_background": [
     "Front-end",
@@ -55,7 +53,7 @@
     "Object-relational databases",
     "Coffee roasting",
     "Architecture design",
-    "Fabricating"
+    "Fabrication"
   ],
   "fun_facts": [
     "Former sponsored Ironman triathlete",

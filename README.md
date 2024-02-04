@@ -362,6 +362,6 @@ Evening             346 commits    █░░░░░░░░░░░░░░
 <br />
 
 ```text
-Status:  █████████████████████░░░░  84% complete
+Status:  █████████████████████░░░░  84%
 ```
 [GitHub Stats critical path](https://github.com/guylepage3/guylepage3/issues/1)
