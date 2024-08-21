@@ -1,18 +1,19 @@
 {
   "name": "Guy Leonard Lepage III",
   "birthplace": "Lethbridge, Canada",
-  "formative_years": "Vancouver Island, Canada",
+  "early_childhood": "Vancouver Island, Canada",
   "childhood": "Regina, Canada",
+  "teenage_years": "Regina, Canada",
   "early_career": "Vancouver, Canada",
   "mid_career": "New York, NY",
   "pandemic_years":  "Miami, FL",
-  "locations": [
-    "Texas",
+  "current_locations": [
     "Miami",
+    "New York",
+    "California",
+    "Texas",
     "Colorado",
-    "Wyoming",
-    "Vermont",
-    "California"
+    "Vermont"
   ],
   "education": [
     "High School: Archbishop M.C. O'Neill Catholic High School",
@@ -29,17 +30,17 @@
     "Award Finalist: The Index Project (Copenhagen, Denmark)"
   ],
   "general_interests": [
+    "Finance",
     "Business",
+    "Investing",
+    "Alternative asset management",
+    "Web3",
+    "Cryptography",
     "Marketing",
     "Advertising",
     "Design",
     "Development",
-    "Finance",
-    "Venture capital",
-    "Investing",
-    "Alternative asset management",
-    "Web3",
-    "Cryptography"
+    "Venture capital"
   ],
   "technical_background": [
     "Front-end",
