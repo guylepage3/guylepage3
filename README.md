@@ -1,27 +1,19 @@
 <br />
 <div align="left">
-  <a href="https://guylepage.com">
+  <a href="https://brunheller.com">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://user-images.githubusercontent.com/1711854/227265277-3e002be4-faef-4f63-8508-c4f67daccee4.png" width="150" 
-        alt="Guy Lepage Logo [guylepage-logo-rev-1024x1024]">
-      <img src="https://user-images.githubusercontent.com/1711854/228915760-dc8b1adc-bd36-4863-8acc-56db046e73b1.png" width="150" 
-      alt="Guy Lepage Logo [guylepage-logo-1024x1024]">
+        srcset="https://github.com/user-attachments/assets/8d9ad6e2-3df7-435f-a1a2-63a99164b7fc" width="150" 
+        alt="Brunheller Logo">
+      <img src="https://github.com/user-attachments/assets/bd7c7174-6936-4651-855c-d45fe0d31dfb" width="150" 
+      alt="Brunheller Logo">
     </picture>
   </a>
 </div>
-<br />
-
-**GitHub Profile Readme.md Ranking & Statistics** <br />
-[JSON explorer](https://guylepage3.vercel.app/)
-
 <div align="left">
-  <a href="https://brunheller.com" 
-  target="_blank">Learn more about Brunheller</a>
+  Innovative finance for a digital world
+  <br /><br />
+  <a href="https://github.com/brunheller" target="_blank">Explore Brunheller GitHub</a>
 </div>
 <br />
-
-```text
-Status:  █████████████████████░░░░  84%
-```
